@@ -4,6 +4,14 @@
 
 La traduction en Python, via [Pydantic](https://docs.pydantic.dev/latest/), des principales informations du graphe RDF, permet de manipuler les concepts comme des classes et les URI comme des attributs.
 
-Les classes ont été générées à partir d'une transformation XSLT (dans /xslt). 
+Les classes ont été générées à partir d'une transformation XSLT (dans /xslt).
+
+### Organisation
+
+Voci comment est organisé l'implémentation pydantic du graphe rdf :
+
+- à un fichier .py correspond l'un des 11 premiers niveaux thématiques 
+- chaque matière est une classe
+- une classe peut être contenue dans une autre, exception pour les classes les plus basses
 
 [^1]: http://data.culture.fr/thesaurus/page/ark:/67717/Matiere
