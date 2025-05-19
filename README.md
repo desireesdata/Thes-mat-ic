@@ -8,10 +8,12 @@ Les classes ont été générées à partir d'une transformation XSLT (dans /xsl
 
 ### Organisation
 
-Voci comment est organisé l'implémentation pydantic du graphe rdf :
+Voci comment est organisé l'implémentation pydantic du graphe rdf (dans /thesmatic):
 
-- à un fichier .py correspond l'un des 11 premiers niveaux thématiques 
+- à un fichier .py correspond l'un des 11 premiers niveaux thématiques  (administration agriculture, communications, économie, etc.)
 - chaque matière est une classe
 - une classe peut être contenue dans une autre, exception pour les classes les plus basses
+
+Deux versions : dans `/thesmatic_inverse`, l'ordre des classes n'est pas celle, hiérarchique, du RDF, représenté dans le dossier "thesmatic". Mais celle de l'ordre de déclaration sans avoir à charger toute l'arborescence. Je recommande d'utiliser la version inverse.
 
 [^1]: http://data.culture.fr/thesaurus/page/ark:/67717/Matiere
