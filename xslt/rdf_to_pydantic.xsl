@@ -29,7 +29,7 @@
             </xsl:text>-->
             <xsl:variable name="filename" select="concat('../thesmatic/', translate(translate($topConcept/skos:prefLabel, ' ', '_'), 'é', 'e'), '.py')"/>
             <xsl:result-document href="{$filename}">
-                <xsl:text>from pydantic import BaseModel
+                <xsl:text>from pydantic import BaseModel, Field
 from typing import Union, Literal
                 
 </xsl:text>
@@ -52,7 +52,7 @@ from typing import Union, Literal
         <xsl:text>class </xsl:text>
         <xsl:value-of select="$className"/>
         <xsl:text>(BaseModel):
-    terme_specifique: </xsl:text>
+    sous_descripteur: </xsl:text>
         
         <xsl:choose>
             <xsl:when test="skos:narrower">
@@ -72,7 +72,7 @@ from typing import Union, Literal
                         <xsl:text>, </xsl:text>
                     </xsl:if>
                 </xsl:for-each>
-                <xsl:text>]</xsl:text>
+                <xsl:text>] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") </xsl:text>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:text>Literal['</xsl:text>
@@ -104,7 +104,7 @@ from typing import Union, Literal
         <xsl:text>class </xsl:text>
         <xsl:value-of select="$className"/>
         <xsl:text>(BaseModel):
-    terme_specifique: </xsl:text>
+    sous_descripteur: </xsl:text>
         
         <xsl:choose>
             <xsl:when test="skos:narrower">
@@ -124,7 +124,7 @@ from typing import Union, Literal
                         <xsl:text>, </xsl:text>
                     </xsl:if>
                 </xsl:for-each>
-                <xsl:text>]</xsl:text>
+                <xsl:text>] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") </xsl:text>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:text>Literal['</xsl:text>

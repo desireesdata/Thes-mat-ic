@@ -2,361 +2,361 @@ from pydantic import BaseModel
 from typing import Union, Literal
 
 class StationRadioElectriquePrivee(BaseModel):
-    terme_specifique: Literal['StationRadioElectriquePrivee']
+    sous_descripteur: Literal['StationRadioElectriquePrivee']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1445"
     descripteur: str = "station radio électrique privée"
 
 class AppareilRadioElectrique(BaseModel):
-    terme_specifique: Literal['AppareilRadioElectrique']
+    sous_descripteur: Literal['AppareilRadioElectrique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-692"
     descripteur: str = "appareil radio électrique"
 
 class ServitudeRadioElectrique(BaseModel):
-    terme_specifique: Literal['ServitudeRadioElectrique']
+    sous_descripteur: Literal['ServitudeRadioElectrique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1008"
     descripteur: str = "servitude radio électrique"
 
 class ServiceRadioElectrique(BaseModel):
-    terme_specifique: Union['ServitudeRadioElectrique', 'AppareilRadioElectrique', 'StationRadioElectriquePrivee']
+    sous_descripteur: Union['ServitudeRadioElectrique', 'AppareilRadioElectrique', 'StationRadioElectriquePrivee'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-945"
     descripteur: str = "service radio électrique"
 
 class StationDeRadiodiffusionPrivee(BaseModel):
-    terme_specifique: Literal['StationDeRadiodiffusionPrivee']
+    sous_descripteur: Literal['StationDeRadiodiffusionPrivee']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1336"
     descripteur: str = "station de radiodiffusion privée"
 
 class Radiodiffusion(BaseModel):
-    terme_specifique: Union['StationDeRadiodiffusionPrivee']
+    sous_descripteur: Union['StationDeRadiodiffusionPrivee'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-592"
     descripteur: str = "radiodiffusion"
 
 class TriPostal(BaseModel):
-    terme_specifique: Literal['TriPostal']
+    sous_descripteur: Literal['TriPostal']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1416"
     descripteur: str = "tri postal"
 
 class DistributionPostale(BaseModel):
-    terme_specifique: Literal['DistributionPostale']
+    sous_descripteur: Literal['DistributionPostale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-547"
     descripteur: str = "distribution postale"
 
 class ServiceFinancierDeLaPoste(BaseModel):
-    terme_specifique: Literal['ServiceFinancierDeLaPoste']
+    sous_descripteur: Literal['ServiceFinancierDeLaPoste']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1082"
     descripteur: str = "service financier de la poste"
 
 class Poste(BaseModel):
-    terme_specifique: Union['ServiceFinancierDeLaPoste', 'DistributionPostale', 'TriPostal']
+    sous_descripteur: Union['ServiceFinancierDeLaPoste', 'DistributionPostale', 'TriPostal'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1184"
     descripteur: str = "poste"
 
 class MaterielInformatique(BaseModel):
-    terme_specifique: Literal['MaterielInformatique']
+    sous_descripteur: Literal['MaterielInformatique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1426"
     descripteur: str = "matériel informatique"
 
 class LogicielInformatique(BaseModel):
-    terme_specifique: Literal['LogicielInformatique']
+    sous_descripteur: Literal['LogicielInformatique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-482"
     descripteur: str = "logiciel informatique"
 
 class SystemeDinformation(BaseModel):
-    terme_specifique: Union['LogicielInformatique', 'MaterielInformatique']
+    sous_descripteur: Union['LogicielInformatique', 'MaterielInformatique'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-903"
     descripteur: str = "système d'information"
 
 class SocieteDeTelediffusionPrivee(BaseModel):
-    terme_specifique: Literal['SocieteDeTelediffusionPrivee']
+    sous_descripteur: Literal['SocieteDeTelediffusionPrivee']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-219"
     descripteur: str = "société de télédiffusion privée"
 
 class Telediffusion(BaseModel):
-    terme_specifique: Union['SocieteDeTelediffusionPrivee']
+    sous_descripteur: Union['SocieteDeTelediffusionPrivee'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-228"
     descripteur: str = "télédiffusion"
 
 class Telephone(BaseModel):
-    terme_specifique: Literal['Telephone']
+    sous_descripteur: Literal['Telephone']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1187"
     descripteur: str = "téléphone"
 
 class Telex(BaseModel):
-    terme_specifique: Literal['Telex']
+    sous_descripteur: Literal['Telex']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-768"
     descripteur: str = "télex"
 
 class Telegraphe(BaseModel):
-    terme_specifique: Literal['Telegraphe']
+    sous_descripteur: Literal['Telegraphe']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-486"
     descripteur: str = "télégraphe"
 
 class ReseauDinformation(BaseModel):
-    terme_specifique: Literal['ReseauDinformation']
+    sous_descripteur: Literal['ReseauDinformation']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-413"
     descripteur: str = "réseau d'information"
 
 class Telematique(BaseModel):
-    terme_specifique: Literal['Telematique']
+    sous_descripteur: Literal['Telematique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-95"
     descripteur: str = "télématique"
 
 class Telecommunications(BaseModel):
-    terme_specifique: Union['Telematique', 'ReseauDinformation', 'Telegraphe', 'Telex', 'Telephone']
+    sous_descripteur: Union['Telematique', 'ReseauDinformation', 'Telegraphe', 'Telex', 'Telephone'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1327"
     descripteur: str = "télécommunications"
 
 class PigeonVoyageur(BaseModel):
-    terme_specifique: Literal['PigeonVoyageur']
+    sous_descripteur: Literal['PigeonVoyageur']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-518"
     descripteur: str = "pigeon voyageur"
 
 class Messagerie(BaseModel):
-    terme_specifique: Union['PigeonVoyageur', 'Telecommunications', 'Telediffusion', 'SystemeDinformation', 'Poste', 'Radiodiffusion', 'ServiceRadioElectrique']
+    sous_descripteur: Union['PigeonVoyageur', 'Telecommunications', 'Telediffusion', 'SystemeDinformation', 'Poste', 'Radiodiffusion', 'ServiceRadioElectrique'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-915"
     descripteur: str = "messagerie"
 
 class Gare(BaseModel):
-    terme_specifique: Literal['Gare']
+    sous_descripteur: Literal['Gare']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1428"
     descripteur: str = "gare"
 
 class CirculationUrbaine(BaseModel):
-    terme_specifique: Literal['CirculationUrbaine']
+    sous_descripteur: Literal['CirculationUrbaine']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1427"
     descripteur: str = "circulation urbaine"
 
 class Aerodrome(BaseModel):
-    terme_specifique: Literal['Aerodrome']
+    sous_descripteur: Literal['Aerodrome']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1022"
     descripteur: str = "aérodrome"
 
 class Pilote(BaseModel):
-    terme_specifique: Literal['Pilote']
+    sous_descripteur: Literal['Pilote']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-627"
     descripteur: str = "pilote"
 
 class PoidsLourd(BaseModel):
-    terme_specifique: Literal['PoidsLourd']
+    sous_descripteur: Literal['PoidsLourd']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1003"
     descripteur: str = "poids lourd"
 
 class LiaisonRoutiereInternationale(BaseModel):
-    terme_specifique: Literal['LiaisonRoutiereInternationale']
+    sous_descripteur: Literal['LiaisonRoutiereInternationale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-705"
     descripteur: str = "liaison routière internationale"
 
 class TransportRoutier(BaseModel):
-    terme_specifique: Union['LiaisonRoutiereInternationale', 'PoidsLourd']
+    sous_descripteur: Union['LiaisonRoutiereInternationale', 'PoidsLourd'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-883"
     descripteur: str = "transport routier"
 
 class VehiculeADeuxRoues(BaseModel):
-    terme_specifique: Literal['VehiculeADeuxRoues']
+    sous_descripteur: Literal['VehiculeADeuxRoues']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1257"
     descripteur: str = "véhicule à deux roues"
 
 class VehiculeATractionAnimale(BaseModel):
-    terme_specifique: Literal['VehiculeATractionAnimale']
+    sous_descripteur: Literal['VehiculeATractionAnimale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-955"
     descripteur: str = "véhicule à traction animale"
 
 class AnimalDeBat(BaseModel):
-    terme_specifique: Literal['AnimalDeBat']
+    sous_descripteur: Literal['AnimalDeBat']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-573"
     descripteur: str = "animal de bât"
 
 class TransportParAnimal(BaseModel):
-    terme_specifique: Union['AnimalDeBat', 'VehiculeATractionAnimale']
+    sous_descripteur: Union['AnimalDeBat', 'VehiculeATractionAnimale'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-488"
     descripteur: str = "transport par animal"
 
 class LigneAerienne(BaseModel):
-    terme_specifique: Literal['LigneAerienne']
+    sous_descripteur: Literal['LigneAerienne']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1236"
     descripteur: str = "ligne aérienne"
 
 class NavigationAerienne(BaseModel):
-    terme_specifique: Literal['NavigationAerienne']
+    sous_descripteur: Literal['NavigationAerienne']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-859"
     descripteur: str = "navigation aérienne"
 
 class ServitudeAeronautique(BaseModel):
-    terme_specifique: Literal['ServitudeAeronautique']
+    sous_descripteur: Literal['ServitudeAeronautique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-479"
     descripteur: str = "servitude aéronautique"
 
 class TransportAerien(BaseModel):
-    terme_specifique: Union['ServitudeAeronautique', 'NavigationAerienne', 'LigneAerienne']
+    sous_descripteur: Union['ServitudeAeronautique', 'NavigationAerienne', 'LigneAerienne'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1329"
     descripteur: str = "transport aérien"
 
 class TransportADosDhomme(BaseModel):
-    terme_specifique: Literal['TransportADosDhomme']
+    sous_descripteur: Literal['TransportADosDhomme']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-440"
     descripteur: str = "transport à dos d'homme"
 
 class Navire(BaseModel):
-    terme_specifique: Literal['Navire']
+    sous_descripteur: Literal['Navire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-328"
     descripteur: str = "navire"
 
 class TransportFluvial(BaseModel):
-    terme_specifique: Literal['TransportFluvial']
+    sous_descripteur: Literal['TransportFluvial']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-679"
     descripteur: str = "transport fluvial"
 
 class BateauDeNavigationInterieure(BaseModel):
-    terme_specifique: Literal['BateauDeNavigationInterieure']
+    sous_descripteur: Literal['BateauDeNavigationInterieure']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1256"
     descripteur: str = "bateau de navigation intérieure"
 
 class Aeronef(BaseModel):
-    terme_specifique: Literal['Aeronef']
+    sous_descripteur: Literal['Aeronef']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1406"
     descripteur: str = "aéronef"
 
 class Automobiliste(BaseModel):
-    terme_specifique: Literal['Automobiliste']
+    sous_descripteur: Literal['Automobiliste']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-267"
     descripteur: str = "automobiliste"
 
 class UsagerDesTransports(BaseModel):
-    terme_specifique: Literal['UsagerDesTransports']
+    sous_descripteur: Literal['UsagerDesTransports']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-816"
     descripteur: str = "usager des transports"
 
 class TransportEnCommun(BaseModel):
-    terme_specifique: Union['UsagerDesTransports']
+    sous_descripteur: Union['UsagerDesTransports'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1273"
     descripteur: str = "transport en commun"
 
 class BateauDePlaisance(BaseModel):
-    terme_specifique: Literal['BateauDePlaisance']
+    sous_descripteur: Literal['BateauDePlaisance']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-217"
     descripteur: str = "bateau de plaisance"
 
 class ArmementMaritime(BaseModel):
-    terme_specifique: Literal['ArmementMaritime']
+    sous_descripteur: Literal['ArmementMaritime']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1332"
     descripteur: str = "armement maritime"
 
 class MarinDeCommerce(BaseModel):
-    terme_specifique: Literal['MarinDeCommerce']
+    sous_descripteur: Literal['MarinDeCommerce']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-642"
     descripteur: str = "marin de commerce"
 
 class LigneMaritime(BaseModel):
-    terme_specifique: Literal['LigneMaritime']
+    sous_descripteur: Literal['LigneMaritime']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-196"
     descripteur: str = "ligne maritime"
 
 class SignalisationMaritime(BaseModel):
-    terme_specifique: Literal['SignalisationMaritime']
+    sous_descripteur: Literal['SignalisationMaritime']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-951"
     descripteur: str = "signalisation maritime"
 
 class TransportMaritime(BaseModel):
-    terme_specifique: Union['SignalisationMaritime', 'LigneMaritime', 'MarinDeCommerce', 'ArmementMaritime']
+    sous_descripteur: Union['SignalisationMaritime', 'LigneMaritime', 'MarinDeCommerce', 'ArmementMaritime'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1090"
     descripteur: str = "transport maritime"
 
 class Ferroutage(BaseModel):
-    terme_specifique: Literal['Ferroutage']
+    sous_descripteur: Literal['Ferroutage']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-178"
     descripteur: str = "ferroutage"
 
 class TransportMultimodal(BaseModel):
-    terme_specifique: Union['Ferroutage']
+    sous_descripteur: Union['Ferroutage'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-745"
     descripteur: str = "transport multimodal"
 
 class VehiculeAutomobile(BaseModel):
-    terme_specifique: Literal['VehiculeAutomobile']
+    sous_descripteur: Literal['VehiculeAutomobile']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-50"
     descripteur: str = "véhicule automobile"
 
 class OfficierDePort(BaseModel):
-    terme_specifique: Literal['OfficierDePort']
+    sous_descripteur: Literal['OfficierDePort']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-928"
     descripteur: str = "officier de port"
 
 class PortDePlaisance(BaseModel):
-    terme_specifique: Literal['PortDePlaisance']
+    sous_descripteur: Literal['PortDePlaisance']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1253"
     descripteur: str = "port de plaisance"
 
 class PortFluvial(BaseModel):
-    terme_specifique: Literal['PortFluvial']
+    sous_descripteur: Literal['PortFluvial']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-948"
     descripteur: str = "port fluvial"
 
 class PortDeCommerce(BaseModel):
-    terme_specifique: Literal['PortDeCommerce']
+    sous_descripteur: Literal['PortDeCommerce']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-567"
     descripteur: str = "port de commerce"
 
 class Docker(BaseModel):
-    terme_specifique: Literal['Docker']
+    sous_descripteur: Literal['Docker']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1434"
     descripteur: str = "docker"
 
 class PortMaritime(BaseModel):
-    terme_specifique: Literal['PortMaritime']
+    sous_descripteur: Literal['PortMaritime']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-597"
     descripteur: str = "port maritime"
 
 class PortDePeche(BaseModel):
-    terme_specifique: Literal['PortDePeche']
+    sous_descripteur: Literal['PortDePeche']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-156"
     descripteur: str = "port de pêche"
 
 class InfrastructurePortuaire(BaseModel):
-    terme_specifique: Literal['InfrastructurePortuaire']
+    sous_descripteur: Literal['InfrastructurePortuaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-277"
     descripteur: str = "infrastructure portuaire"
 
 class Port(BaseModel):
-    terme_specifique: Union['InfrastructurePortuaire', 'PortDePeche', 'PortMaritime', 'Docker', 'PortDeCommerce', 'PortFluvial', 'PortDePlaisance', 'OfficierDePort']
+    sous_descripteur: Union['InfrastructurePortuaire', 'PortDePeche', 'PortMaritime', 'Docker', 'PortDeCommerce', 'PortFluvial', 'PortDePlaisance', 'OfficierDePort'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-231"
     descripteur: str = "port"
 
 class LiaisonFerreeInternationale(BaseModel):
-    terme_specifique: Literal['LiaisonFerreeInternationale']
+    sous_descripteur: Literal['LiaisonFerreeInternationale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-493"
     descripteur: str = "liaison ferrée internationale"
 
 class LigneDeCheminDeFer(BaseModel):
-    terme_specifique: Literal['LigneDeCheminDeFer']
+    sous_descripteur: Literal['LigneDeCheminDeFer']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-139"
     descripteur: str = "ligne de chemin de fer"
 
 class TransportFerroviaire(BaseModel):
-    terme_specifique: Union['LigneDeCheminDeFer', 'LiaisonFerreeInternationale']
+    sous_descripteur: Union['LigneDeCheminDeFer', 'LiaisonFerreeInternationale'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-164"
     descripteur: str = "transport ferroviaire"
 
 class ChauffeurDeTaxi(BaseModel):
-    terme_specifique: Literal['ChauffeurDeTaxi']
+    sous_descripteur: Literal['ChauffeurDeTaxi']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-617"
     descripteur: str = "chauffeur de taxi"
 
 class SignalisationRoutiere(BaseModel):
-    terme_specifique: Literal['SignalisationRoutiere']
+    sous_descripteur: Literal['SignalisationRoutiere']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1076"
     descripteur: str = "signalisation routière"
 
 class CirculationRoutiere(BaseModel):
-    terme_specifique: Union['SignalisationRoutiere']
+    sous_descripteur: Union['SignalisationRoutiere'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1050"
     descripteur: str = "circulation routière"
 
 class Transport(BaseModel):
-    terme_specifique: Union['CirculationRoutiere', 'ChauffeurDeTaxi', 'TransportFerroviaire', 'Port', 'VehiculeAutomobile', 'TransportMultimodal', 'TransportMaritime', 'BateauDePlaisance', 'TransportEnCommun', 'Automobiliste', 'Aeronef', 'BateauDeNavigationInterieure', 'TransportFluvial', 'Navire', 'TransportADosDhomme', 'TransportAerien', 'TransportParAnimal', 'VehiculeADeuxRoues', 'TransportRoutier', 'Pilote', 'Aerodrome', 'CirculationUrbaine', 'Gare']
+    sous_descripteur: Union['CirculationRoutiere', 'ChauffeurDeTaxi', 'TransportFerroviaire', 'Port', 'VehiculeAutomobile', 'TransportMultimodal', 'TransportMaritime', 'BateauDePlaisance', 'TransportEnCommun', 'Automobiliste', 'Aeronef', 'BateauDeNavigationInterieure', 'TransportFluvial', 'Navire', 'TransportADosDhomme', 'TransportAerien', 'TransportParAnimal', 'VehiculeADeuxRoues', 'TransportRoutier', 'Pilote', 'Aerodrome', 'CirculationUrbaine', 'Gare'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-548"
     descripteur: str = "transport"
 
 class Communications(BaseModel):
-    terme_specifique: Union['Transport', 'Messagerie']
+    sous_descripteur: Union['Transport', 'Messagerie'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-503"
     descripteur: str = "communications"

@@ -20,7 +20,7 @@ for file_path in file_paths:
         content = file.read()
 
     # Utiliser l'expression régulière pour trouver toutes les classes
-    classes = re.findall(r'(class.*\n\s*terme_specifique:.*\n\s*ark:.*\n\s*descripteur:.*\n)', content)
+    classes = re.findall(r'(class.*\n\s*sous_descripteur:.*\n\s*ark:.*\n\s*descripteur:.*\n)', content)
 
     # Inverser l'ordre des classes
     classes.reverse()

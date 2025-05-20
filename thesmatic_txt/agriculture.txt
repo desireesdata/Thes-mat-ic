@@ -1,0 +1,96 @@
+agriculture
+    - économie rurale
+        - bâtiment agricole
+        - aménagement rural
+            - terre inculte
+            - association syndicale de propriétaires
+            - remembrement rural
+        - agriculteur
+            - exploitant forestier
+            - éleveur
+            - berger
+            - salarié agricole
+            - jeune agriculteur
+            - exploitant agricole
+        - hydraulique agricole
+            - barrage hydraulique
+            - irrigation
+            - drainage
+        - marin pêcheur
+        - usages agricoles locaux
+        - pratiques agraires
+            - écobuage
+            - agriculture biologique
+            - amélioration des sols
+            - assolement
+            - battage
+        - exploitation agricole
+            - coopérative agricole
+            - baux ruraux
+            - groupement de producteurs
+            - société d'intérêt collectif agricole
+        - vie pastorale
+            - transhumance
+        - matériel agricole
+        - concours agricole
+    - forêt
+        - bois
+            - coupe de bois
+            - charbon de bois
+        - forêt domaniale
+            - concession forestière
+        - forêt communale
+        - droits d'usage forestiers
+            - pâturage
+        - vacants
+        - sylviculture
+            - défrichement
+            - reboisement
+        - forêt privée
+        - aménagement forestier
+    - production agricole
+        - viticulture
+        - protection sanitaire du cheptel
+            - médecine vétérinaire
+            - pharmacie vétérinaire
+            - maladie des animaux
+        - culture industrielle
+            - plante tinctoriale
+            - plante textile
+            - oléagineux
+            - céréale
+            - tabac
+            - sucre
+        - élevage
+            - ver à soie
+            - abattoir
+            - reproduction animale
+            - bétail
+            - viande
+            - produit laitier
+            - oeuf
+            - aliment du bétail
+            - volaille
+            - équidé
+        - boisson alcoolisée
+            - vin
+            - eau-de-vie
+        - horticulture
+            - fruit
+            - fleur
+            - produit maraîcher
+        - calamité agricole
+            - sécheresse
+            - gelée
+            - grêle
+        - protection des végétaux
+            - maladie des végétaux
+            - animal nuisible
+        - apiculture
+        - aquaculture
+            - pisciculture
+            - conchyliculture
+        - pêche
+            - pêche maritime
+            - pêche en eau douce
+            - poisson

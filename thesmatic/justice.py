@@ -1,511 +1,511 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import Union, Literal
                 
 class Justice(BaseModel):
-    terme_specifique: Union['ConditionPenitentiaire', 'JusticeCivile', 'OrganisationJudiciaire', 'JusticePenale', 'DecisionDeJustice']
+    sous_descripteur: Union['ConditionPenitentiaire', 'JusticeCivile', 'OrganisationJudiciaire', 'JusticePenale', 'DecisionDeJustice'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-483"
     descripteur: str = "justice"
 class ConditionPenitentiaire(BaseModel):
-    terme_specifique: Union['VisiteurDePrison', 'DisciplinePenitentiaire', 'MedecinePenitentiaire', 'EnseignementPenitentiaire', 'EtablissementPenitentiaire', 'PopulationPenitentiaire', 'TravailPenitentiaire']
+    sous_descripteur: Union['VisiteurDePrison', 'DisciplinePenitentiaire', 'MedecinePenitentiaire', 'EnseignementPenitentiaire', 'EtablissementPenitentiaire', 'PopulationPenitentiaire', 'TravailPenitentiaire'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1117"
     descripteur: str = "condition pénitentiaire"
 class VisiteurDePrison(BaseModel):
-    terme_specifique: Literal['VisiteurDePrison']
+    sous_descripteur: Literal['VisiteurDePrison']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-2"
     descripteur: str = "visiteur de prison"
 class DisciplinePenitentiaire(BaseModel):
-    terme_specifique: Union['Mutinerie']
+    sous_descripteur: Union['Mutinerie'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-80"
     descripteur: str = "discipline pénitentiaire"
 class Mutinerie(BaseModel):
-    terme_specifique: Literal['Mutinerie']
+    sous_descripteur: Literal['Mutinerie']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-216"
     descripteur: str = "mutinerie"
 class MedecinePenitentiaire(BaseModel):
-    terme_specifique: Literal['MedecinePenitentiaire']
+    sous_descripteur: Literal['MedecinePenitentiaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-702"
     descripteur: str = "médecine pénitentiaire"
 class EnseignementPenitentiaire(BaseModel):
-    terme_specifique: Literal['EnseignementPenitentiaire']
+    sous_descripteur: Literal['EnseignementPenitentiaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-609"
     descripteur: str = "enseignement pénitentiaire"
 class EtablissementPenitentiaire(BaseModel):
-    terme_specifique: Literal['EtablissementPenitentiaire']
+    sous_descripteur: Literal['EtablissementPenitentiaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-674"
     descripteur: str = "établissement pénitentiaire"
 class PopulationPenitentiaire(BaseModel):
-    terme_specifique: Union['Incarceration', 'Evasion']
+    sous_descripteur: Union['Incarceration', 'Evasion'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-737"
     descripteur: str = "population pénitentiaire"
 class Incarceration(BaseModel):
-    terme_specifique: Literal['Incarceration']
+    sous_descripteur: Literal['Incarceration']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-855"
     descripteur: str = "incarcération"
 class Evasion(BaseModel):
-    terme_specifique: Literal['Evasion']
+    sous_descripteur: Literal['Evasion']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1275"
     descripteur: str = "évasion"
 class TravailPenitentiaire(BaseModel):
-    terme_specifique: Literal['TravailPenitentiaire']
+    sous_descripteur: Literal['TravailPenitentiaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1148"
     descripteur: str = "travail pénitentiaire"
 class JusticeCivile(BaseModel):
-    terme_specifique: Union['AffaireCommerciale', 'EnregistrementJudiciaire', 'ContentieuxDeLaSecuriteSociale', 'ContentieuxAdministratif', 'ProtectionJudiciaireDeLaJeunesse', 'AffaireCivile', 'AffairePrudhomale', 'TutelleJudiciaire']
+    sous_descripteur: Union['AffaireCommerciale', 'EnregistrementJudiciaire', 'ContentieuxDeLaSecuriteSociale', 'ContentieuxAdministratif', 'ProtectionJudiciaireDeLaJeunesse', 'AffaireCivile', 'AffairePrudhomale', 'TutelleJudiciaire'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-892"
     descripteur: str = "justice civile"
 class AffaireCommerciale(BaseModel):
-    terme_specifique: Union['RedressementJudiciaire', 'Faillite']
+    sous_descripteur: Union['RedressementJudiciaire', 'Faillite'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-460"
     descripteur: str = "affaire commerciale"
 class RedressementJudiciaire(BaseModel):
-    terme_specifique: Literal['RedressementJudiciaire']
+    sous_descripteur: Literal['RedressementJudiciaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-42"
     descripteur: str = "redressement judiciaire"
 class Faillite(BaseModel):
-    terme_specifique: Literal['Faillite']
+    sous_descripteur: Literal['Faillite']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1232"
     descripteur: str = "faillite"
 class EnregistrementJudiciaire(BaseModel):
-    terme_specifique: Union['ProprieteIndustrielle', 'SureteMobiliere', 'IdentiteCommerciale']
+    sous_descripteur: Union['ProprieteIndustrielle', 'SureteMobiliere', 'IdentiteCommerciale'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-369"
     descripteur: str = "enregistrement judiciaire"
 class ProprieteIndustrielle(BaseModel):
-    terme_specifique: Literal['ProprieteIndustrielle']
+    sous_descripteur: Literal['ProprieteIndustrielle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-68"
     descripteur: str = "propriété industrielle"
 class SureteMobiliere(BaseModel):
-    terme_specifique: Literal['SureteMobiliere']
+    sous_descripteur: Literal['SureteMobiliere']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1283"
     descripteur: str = "sûreté mobilière"
 class IdentiteCommerciale(BaseModel):
-    terme_specifique: Literal['IdentiteCommerciale']
+    sous_descripteur: Literal['IdentiteCommerciale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-524"
     descripteur: str = "identité commerciale"
 class ContentieuxDeLaSecuriteSociale(BaseModel):
-    terme_specifique: Literal['ContentieuxDeLaSecuriteSociale']
+    sous_descripteur: Literal['ContentieuxDeLaSecuriteSociale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-46"
     descripteur: str = "contentieux de la sécurité sociale"
 class ContentieuxAdministratif(BaseModel):
-    terme_specifique: Union['ContentieuxFiscal', 'ContentieuxElectoral']
+    sous_descripteur: Union['ContentieuxFiscal', 'ContentieuxElectoral'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1154"
     descripteur: str = "contentieux administratif"
 class ContentieuxFiscal(BaseModel):
-    terme_specifique: Literal['ContentieuxFiscal']
+    sous_descripteur: Literal['ContentieuxFiscal']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-193"
     descripteur: str = "contentieux fiscal"
 class ContentieuxElectoral(BaseModel):
-    terme_specifique: Literal['ContentieuxElectoral']
+    sous_descripteur: Literal['ContentieuxElectoral']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-169"
     descripteur: str = "contentieux électoral"
 class ProtectionJudiciaireDeLaJeunesse(BaseModel):
-    terme_specifique: Union['MineurSurveille', 'AssistanceEducative', 'MineurDelinquant', 'EducationSurveillee']
+    sous_descripteur: Union['MineurSurveille', 'AssistanceEducative', 'MineurDelinquant', 'EducationSurveillee'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-824"
     descripteur: str = "protection judiciaire de la jeunesse"
 class MineurSurveille(BaseModel):
-    terme_specifique: Literal['MineurSurveille']
+    sous_descripteur: Literal['MineurSurveille']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-566"
     descripteur: str = "mineur surveillé"
 class AssistanceEducative(BaseModel):
-    terme_specifique: Literal['AssistanceEducative']
+    sous_descripteur: Literal['AssistanceEducative']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-336"
     descripteur: str = "assistance éducative"
 class MineurDelinquant(BaseModel):
-    terme_specifique: Literal['MineurDelinquant']
+    sous_descripteur: Literal['MineurDelinquant']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1072"
     descripteur: str = "mineur délinquant"
 class EducationSurveillee(BaseModel):
-    terme_specifique: Literal['EducationSurveillee']
+    sous_descripteur: Literal['EducationSurveillee']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1444"
     descripteur: str = "éducation surveillée"
 class AffaireCivile(BaseModel):
-    terme_specifique: Union['AffaireFamiliale']
+    sous_descripteur: Union['AffaireFamiliale'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-666"
     descripteur: str = "affaire civile"
 class AffaireFamiliale(BaseModel):
-    terme_specifique: Literal['AffaireFamiliale']
+    sous_descripteur: Literal['AffaireFamiliale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-533"
     descripteur: str = "affaire familiale"
 class AffairePrudhomale(BaseModel):
-    terme_specifique: Literal['AffairePrudhomale']
+    sous_descripteur: Literal['AffairePrudhomale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-839"
     descripteur: str = "affaire prud'homale"
 class TutelleJudiciaire(BaseModel):
-    terme_specifique: Union['TutelleAuxPrestationsSociales', 'IncapableMajeur']
+    sous_descripteur: Union['TutelleAuxPrestationsSociales', 'IncapableMajeur'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1176"
     descripteur: str = "tutelle judiciaire"
 class TutelleAuxPrestationsSociales(BaseModel):
-    terme_specifique: Literal['TutelleAuxPrestationsSociales']
+    sous_descripteur: Literal['TutelleAuxPrestationsSociales']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-717"
     descripteur: str = "tutelle aux prestations sociales"
 class IncapableMajeur(BaseModel):
-    terme_specifique: Literal['IncapableMajeur']
+    sous_descripteur: Literal['IncapableMajeur']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1118"
     descripteur: str = "incapable majeur"
 class OrganisationJudiciaire(BaseModel):
-    terme_specifique: Union['OfficierMinisteriel', 'Juge', 'AuxiliaireDeJustice', 'Juridiction']
+    sous_descripteur: Union['OfficierMinisteriel', 'Juge', 'AuxiliaireDeJustice', 'Juridiction'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-158"
     descripteur: str = "organisation judiciaire"
 class OfficierMinisteriel(BaseModel):
-    terme_specifique: Union['CommissairePriseur', 'Notaire', 'Avoue', 'GreffierDeCommerce', 'HuissierDeJustice']
+    sous_descripteur: Union['CommissairePriseur', 'Notaire', 'Avoue', 'GreffierDeCommerce', 'HuissierDeJustice'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-101"
     descripteur: str = "officier ministériel"
 class CommissairePriseur(BaseModel):
-    terme_specifique: Literal['CommissairePriseur']
+    sous_descripteur: Literal['CommissairePriseur']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1137"
     descripteur: str = "commissaire priseur"
 class Notaire(BaseModel):
-    terme_specifique: Literal['Notaire']
+    sous_descripteur: Literal['Notaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-60"
     descripteur: str = "notaire"
 class Avoue(BaseModel):
-    terme_specifique: Literal['Avoue']
+    sous_descripteur: Literal['Avoue']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1166"
     descripteur: str = "avoué"
 class GreffierDeCommerce(BaseModel):
-    terme_specifique: Literal['GreffierDeCommerce']
+    sous_descripteur: Literal['GreffierDeCommerce']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-878"
     descripteur: str = "greffier de commerce"
 class HuissierDeJustice(BaseModel):
-    terme_specifique: Literal['HuissierDeJustice']
+    sous_descripteur: Literal['HuissierDeJustice']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-390"
     descripteur: str = "huissier de justice"
 class Juge(BaseModel):
-    terme_specifique: Union['Prudhomme', 'JugeAdministratif', 'JugeConsulaire', 'OfficierDeJusticeDAncienRegime', 'JugeDePaix', 'Magistrat']
+    sous_descripteur: Union['Prudhomme', 'JugeAdministratif', 'JugeConsulaire', 'OfficierDeJusticeDAncienRegime', 'JugeDePaix', 'Magistrat'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-767"
     descripteur: str = "juge"
 class Prudhomme(BaseModel):
-    terme_specifique: Literal['Prudhomme']
+    sous_descripteur: Literal['Prudhomme']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-51"
     descripteur: str = "prud'homme"
 class JugeAdministratif(BaseModel):
-    terme_specifique: Literal['JugeAdministratif']
+    sous_descripteur: Literal['JugeAdministratif']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-313"
     descripteur: str = "juge administratif"
 class JugeConsulaire(BaseModel):
-    terme_specifique: Literal['JugeConsulaire']
+    sous_descripteur: Literal['JugeConsulaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-372"
     descripteur: str = "juge consulaire"
 class OfficierDeJusticeDAncienRegime(BaseModel):
-    terme_specifique: Literal['OfficierDeJusticeDAncienRegime']
+    sous_descripteur: Literal['OfficierDeJusticeDAncienRegime']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-409"
     descripteur: str = "officier de justice d'Ancien Régime"
 class JugeDePaix(BaseModel):
-    terme_specifique: Literal['JugeDePaix']
+    sous_descripteur: Literal['JugeDePaix']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-795"
     descripteur: str = "juge de paix"
 class Magistrat(BaseModel):
-    terme_specifique: Literal['Magistrat']
+    sous_descripteur: Literal['Magistrat']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1366"
     descripteur: str = "magistrat"
 class AuxiliaireDeJustice(BaseModel):
-    terme_specifique: Union['AdministrateurJudiciaire', 'ConseilJuridique', 'MediateurDeJustice', 'SyndicDeFaillite', 'OfficierDePoliceJudiciaire', 'AgentDePoliceJudiciaire', 'Conciliateur', 'Avocat', 'Greffier', 'Expert']
+    sous_descripteur: Union['AdministrateurJudiciaire', 'ConseilJuridique', 'MediateurDeJustice', 'SyndicDeFaillite', 'OfficierDePoliceJudiciaire', 'AgentDePoliceJudiciaire', 'Conciliateur', 'Avocat', 'Greffier', 'Expert'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-487"
     descripteur: str = "auxiliaire de justice"
 class AdministrateurJudiciaire(BaseModel):
-    terme_specifique: Literal['AdministrateurJudiciaire']
+    sous_descripteur: Literal['AdministrateurJudiciaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-224"
     descripteur: str = "administrateur judiciaire"
 class ConseilJuridique(BaseModel):
-    terme_specifique: Literal['ConseilJuridique']
+    sous_descripteur: Literal['ConseilJuridique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-104"
     descripteur: str = "conseil juridique"
 class MediateurDeJustice(BaseModel):
-    terme_specifique: Literal['MediateurDeJustice']
+    sous_descripteur: Literal['MediateurDeJustice']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-109"
     descripteur: str = "médiateur de justice"
 class SyndicDeFaillite(BaseModel):
-    terme_specifique: Literal['SyndicDeFaillite']
+    sous_descripteur: Literal['SyndicDeFaillite']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-163"
     descripteur: str = "syndic de faillite"
 class OfficierDePoliceJudiciaire(BaseModel):
-    terme_specifique: Literal['OfficierDePoliceJudiciaire']
+    sous_descripteur: Literal['OfficierDePoliceJudiciaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1226"
     descripteur: str = "officier de police judiciaire"
 class AgentDePoliceJudiciaire(BaseModel):
-    terme_specifique: Literal['AgentDePoliceJudiciaire']
+    sous_descripteur: Literal['AgentDePoliceJudiciaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-629"
     descripteur: str = "agent de police judiciaire"
 class Conciliateur(BaseModel):
-    terme_specifique: Literal['Conciliateur']
+    sous_descripteur: Literal['Conciliateur']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1323"
     descripteur: str = "conciliateur"
 class Avocat(BaseModel):
-    terme_specifique: Literal['Avocat']
+    sous_descripteur: Literal['Avocat']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-994"
     descripteur: str = "avocat"
 class Greffier(BaseModel):
-    terme_specifique: Literal['Greffier']
+    sous_descripteur: Literal['Greffier']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-882"
     descripteur: str = "greffier"
 class Expert(BaseModel):
-    terme_specifique: Literal['Expert']
+    sous_descripteur: Literal['Expert']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-534"
     descripteur: str = "expert"
 class Juridiction(BaseModel):
-    terme_specifique: Union['JusticeMilitaire', 'JusticeMunicipale', 'JusticeRoyale', 'JusticeSeigneuriale']
+    sous_descripteur: Union['JusticeMilitaire', 'JusticeMunicipale', 'JusticeRoyale', 'JusticeSeigneuriale'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1132"
     descripteur: str = "juridiction"
 class JusticeMilitaire(BaseModel):
-    terme_specifique: Literal['JusticeMilitaire']
+    sous_descripteur: Literal['JusticeMilitaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1487"
     descripteur: str = "justice militaire"
 class JusticeMunicipale(BaseModel):
-    terme_specifique: Literal['JusticeMunicipale']
+    sous_descripteur: Literal['JusticeMunicipale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-212"
     descripteur: str = "justice municipale"
 class JusticeRoyale(BaseModel):
-    terme_specifique: Literal['JusticeRoyale']
+    sous_descripteur: Literal['JusticeRoyale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-569"
     descripteur: str = "justice royale"
 class JusticeSeigneuriale(BaseModel):
-    terme_specifique: Literal['JusticeSeigneuriale']
+    sous_descripteur: Literal['JusticeSeigneuriale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-970"
     descripteur: str = "justice seigneuriale"
 class JusticePenale(BaseModel):
-    terme_specifique: Union['CrimesEtDelits', 'Criminalite', 'JuryDassises', 'QualificationCorrectionnelle', 'VictimeDinfraction', 'Delinquance', 'QualificationCriminelle', 'Contravention']
+    sous_descripteur: Union['CrimesEtDelits', 'Criminalite', 'JuryDassises', 'QualificationCorrectionnelle', 'VictimeDinfraction', 'Delinquance', 'QualificationCriminelle', 'Contravention'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-525"
     descripteur: str = "justice pénale"
 class CrimesEtDelits(BaseModel):
-    terme_specifique: Union['AtteinteALaSureteDeLEtat', 'IncendieVolontaire', 'InfractionMilitaire', 'AgressionSexuelle', 'AbandonDeFamille', 'Escroquerie', 'Corruption', 'Terrorisme', 'FauxTemoignage', 'InfractionMaritime', 'AtteinteALordrePublic', 'AssociationDeMalfaiteurs', 'InfractionEconomique', 'Bigamie', 'AbandonDenfant', 'CrimeDeGuerre', 'DelitDusage', 'OutrageAuxMoeurs', 'FauxMonnayage', 'AtteinteALaDigniteDesPersonnes', 'PriseDotage', 'DegradationDeBiens', 'AtteinteAPapiersPublics', 'Meurtre', 'FauxEnEcriture', 'Vol', 'AbusDeFonction', 'CoupsEtBlessures', 'Avortement']
+    sous_descripteur: Union['AtteinteALaSureteDeLEtat', 'IncendieVolontaire', 'InfractionMilitaire', 'AgressionSexuelle', 'AbandonDeFamille', 'Escroquerie', 'Corruption', 'Terrorisme', 'FauxTemoignage', 'InfractionMaritime', 'AtteinteALordrePublic', 'AssociationDeMalfaiteurs', 'InfractionEconomique', 'Bigamie', 'AbandonDenfant', 'CrimeDeGuerre', 'DelitDusage', 'OutrageAuxMoeurs', 'FauxMonnayage', 'AtteinteALaDigniteDesPersonnes', 'PriseDotage', 'DegradationDeBiens', 'AtteinteAPapiersPublics', 'Meurtre', 'FauxEnEcriture', 'Vol', 'AbusDeFonction', 'CoupsEtBlessures', 'Avortement'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1403"
     descripteur: str = "crimes et délits"
 class AtteinteALaSureteDeLEtat(BaseModel):
-    terme_specifique: Literal['AtteinteALaSureteDeLEtat']
+    sous_descripteur: Literal['AtteinteALaSureteDeLEtat']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-301"
     descripteur: str = "atteinte à la sûreté de l'État"
 class IncendieVolontaire(BaseModel):
-    terme_specifique: Literal['IncendieVolontaire']
+    sous_descripteur: Literal['IncendieVolontaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-25"
     descripteur: str = "incendie volontaire"
 class InfractionMilitaire(BaseModel):
-    terme_specifique: Literal['InfractionMilitaire']
+    sous_descripteur: Literal['InfractionMilitaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-61"
     descripteur: str = "infraction militaire"
 class AgressionSexuelle(BaseModel):
-    terme_specifique: Literal['AgressionSexuelle']
+    sous_descripteur: Literal['AgressionSexuelle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-142"
     descripteur: str = "agression sexuelle"
 class AbandonDeFamille(BaseModel):
-    terme_specifique: Literal['AbandonDeFamille']
+    sous_descripteur: Literal['AbandonDeFamille']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-215"
     descripteur: str = "abandon de famille"
 class Escroquerie(BaseModel):
-    terme_specifique: Literal['Escroquerie']
+    sous_descripteur: Literal['Escroquerie']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-296"
     descripteur: str = "escroquerie"
 class Corruption(BaseModel):
-    terme_specifique: Literal['Corruption']
+    sous_descripteur: Literal['Corruption']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-316"
     descripteur: str = "corruption"
 class Terrorisme(BaseModel):
-    terme_specifique: Literal['Terrorisme']
+    sous_descripteur: Literal['Terrorisme']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-320"
     descripteur: str = "terrorisme"
 class FauxTemoignage(BaseModel):
-    terme_specifique: Literal['FauxTemoignage']
+    sous_descripteur: Literal['FauxTemoignage']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-364"
     descripteur: str = "faux témoignage"
 class InfractionMaritime(BaseModel):
-    terme_specifique: Literal['InfractionMaritime']
+    sous_descripteur: Literal['InfractionMaritime']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-394"
     descripteur: str = "infraction maritime"
 class AtteinteALordrePublic(BaseModel):
-    terme_specifique: Literal['AtteinteALordrePublic']
+    sous_descripteur: Literal['AtteinteALordrePublic']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-707"
     descripteur: str = "atteinte à l'ordre public"
 class AssociationDeMalfaiteurs(BaseModel):
-    terme_specifique: Literal['AssociationDeMalfaiteurs']
+    sous_descripteur: Literal['AssociationDeMalfaiteurs']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-504"
     descripteur: str = "association de malfaiteurs"
 class InfractionEconomique(BaseModel):
-    terme_specifique: Literal['InfractionEconomique']
+    sous_descripteur: Literal['InfractionEconomique']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-809"
     descripteur: str = "infraction économique"
 class Bigamie(BaseModel):
-    terme_specifique: Literal['Bigamie']
+    sous_descripteur: Literal['Bigamie']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-557"
     descripteur: str = "bigamie"
 class AbandonDenfant(BaseModel):
-    terme_specifique: Literal['AbandonDenfant']
+    sous_descripteur: Literal['AbandonDenfant']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-588"
     descripteur: str = "abandon d'enfant"
 class CrimeDeGuerre(BaseModel):
-    terme_specifique: Literal['CrimeDeGuerre']
+    sous_descripteur: Literal['CrimeDeGuerre']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-619"
     descripteur: str = "crime de guerre"
 class DelitDusage(BaseModel):
-    terme_specifique: Literal['DelitDusage']
+    sous_descripteur: Literal['DelitDusage']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-659"
     descripteur: str = "délit d'usage"
 class OutrageAuxMoeurs(BaseModel):
-    terme_specifique: Literal['OutrageAuxMoeurs']
+    sous_descripteur: Literal['OutrageAuxMoeurs']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-751"
     descripteur: str = "outrage aux moeurs"
 class FauxMonnayage(BaseModel):
-    terme_specifique: Literal['FauxMonnayage']
+    sous_descripteur: Literal['FauxMonnayage']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-759"
     descripteur: str = "faux monnayage"
 class AtteinteALaDigniteDesPersonnes(BaseModel):
-    terme_specifique: Literal['AtteinteALaDigniteDesPersonnes']
+    sous_descripteur: Literal['AtteinteALaDigniteDesPersonnes']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-877"
     descripteur: str = "atteinte à la dignité des personnes"
 class PriseDotage(BaseModel):
-    terme_specifique: Literal['PriseDotage']
+    sous_descripteur: Literal['PriseDotage']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1436"
     descripteur: str = "prise d'otage"
 class DegradationDeBiens(BaseModel):
-    terme_specifique: Literal['DegradationDeBiens']
+    sous_descripteur: Literal['DegradationDeBiens']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-992"
     descripteur: str = "dégradation de biens"
 class AtteinteAPapiersPublics(BaseModel):
-    terme_specifique: Literal['AtteinteAPapiersPublics']
+    sous_descripteur: Literal['AtteinteAPapiersPublics']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1048"
     descripteur: str = "atteinte à papiers publics"
 class Meurtre(BaseModel):
-    terme_specifique: Literal['Meurtre']
+    sous_descripteur: Literal['Meurtre']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1080"
     descripteur: str = "meurtre"
 class FauxEnEcriture(BaseModel):
-    terme_specifique: Literal['FauxEnEcriture']
+    sous_descripteur: Literal['FauxEnEcriture']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1156"
     descripteur: str = "faux en écriture"
 class Vol(BaseModel):
-    terme_specifique: Literal['Vol']
+    sous_descripteur: Literal['Vol']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1164"
     descripteur: str = "vol"
 class AbusDeFonction(BaseModel):
-    terme_specifique: Literal['AbusDeFonction']
+    sous_descripteur: Literal['AbusDeFonction']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1224"
     descripteur: str = "abus de fonction"
 class CoupsEtBlessures(BaseModel):
-    terme_specifique: Literal['CoupsEtBlessures']
+    sous_descripteur: Literal['CoupsEtBlessures']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1392"
     descripteur: str = "coups et blessures"
 class Avortement(BaseModel):
-    terme_specifique: Literal['Avortement']
+    sous_descripteur: Literal['Avortement']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1421"
     descripteur: str = "avortement"
 class Criminalite(BaseModel):
-    terme_specifique: Literal['Criminalite']
+    sous_descripteur: Literal['Criminalite']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-235"
     descripteur: str = "criminalité"
 class JuryDassises(BaseModel):
-    terme_specifique: Literal['JuryDassises']
+    sous_descripteur: Literal['JuryDassises']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-264"
     descripteur: str = "jury d'assises"
 class QualificationCorrectionnelle(BaseModel):
-    terme_specifique: Literal['QualificationCorrectionnelle']
+    sous_descripteur: Literal['QualificationCorrectionnelle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-331"
     descripteur: str = "qualification correctionnelle"
 class VictimeDinfraction(BaseModel):
-    terme_specifique: Literal['VictimeDinfraction']
+    sous_descripteur: Literal['VictimeDinfraction']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1014"
     descripteur: str = "victime d'infraction"
 class Delinquance(BaseModel):
-    terme_specifique: Literal['Delinquance']
+    sous_descripteur: Literal['Delinquance']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1458"
     descripteur: str = "délinquance"
 class QualificationCriminelle(BaseModel):
-    terme_specifique: Literal['QualificationCriminelle']
+    sous_descripteur: Literal['QualificationCriminelle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1084"
     descripteur: str = "qualification criminelle"
 class Contravention(BaseModel):
-    terme_specifique: Literal['Contravention']
+    sous_descripteur: Literal['Contravention']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1381"
     descripteur: str = "contravention"
 class DecisionDeJustice(BaseModel):
-    terme_specifique: Union['ApplicationDesPeines', 'Peine', 'Acquittement', 'Extradition', 'Appel', 'Nonlieu', 'Saisie', 'ClassementSansSuite', 'VenteJudiciaire']
+    sous_descripteur: Union['ApplicationDesPeines', 'Peine', 'Acquittement', 'Extradition', 'Appel', 'Nonlieu', 'Saisie', 'ClassementSansSuite', 'VenteJudiciaire'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1242"
     descripteur: str = "décision de justice"
 class ApplicationDesPeines(BaseModel):
-    terme_specifique: Union['Probation', 'Rehabilitation', 'Amnistie', 'LiberationConditionnelle', 'Grace']
+    sous_descripteur: Union['Probation', 'Rehabilitation', 'Amnistie', 'LiberationConditionnelle', 'Grace'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-996"
     descripteur: str = "application des peines"
 class Probation(BaseModel):
-    terme_specifique: Literal['Probation']
+    sous_descripteur: Literal['Probation']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-26"
     descripteur: str = "probation"
 class Rehabilitation(BaseModel):
-    terme_specifique: Literal['Rehabilitation']
+    sous_descripteur: Literal['Rehabilitation']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-392"
     descripteur: str = "réhabilitation"
 class Amnistie(BaseModel):
-    terme_specifique: Literal['Amnistie']
+    sous_descripteur: Literal['Amnistie']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-408"
     descripteur: str = "amnistie"
 class LiberationConditionnelle(BaseModel):
-    terme_specifique: Literal['LiberationConditionnelle']
+    sous_descripteur: Literal['LiberationConditionnelle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1162"
     descripteur: str = "libération conditionnelle"
 class Grace(BaseModel):
-    terme_specifique: Literal['Grace']
+    sous_descripteur: Literal['Grace']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-822"
     descripteur: str = "grâce"
 class Peine(BaseModel):
-    terme_specifique: Union['ReclusionCriminelle', 'Bannissement', 'Amende', 'Galeres', 'TravauxForces', 'PeineDeSubstitution', 'PeineCapitale', 'PeineCorporelle', 'AssignationAResidence']
+    sous_descripteur: Union['ReclusionCriminelle', 'Bannissement', 'Amende', 'Galeres', 'TravauxForces', 'PeineDeSubstitution', 'PeineCapitale', 'PeineCorporelle', 'AssignationAResidence'] = Field(description="Choisir entre les différentes options, sauf si le descripteur est suffisamment pertinent") 
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-615"
     descripteur: str = "peine"
 class ReclusionCriminelle(BaseModel):
-    terme_specifique: Literal['ReclusionCriminelle']
+    sous_descripteur: Literal['ReclusionCriminelle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-270"
     descripteur: str = "réclusion criminelle"
 class Bannissement(BaseModel):
-    terme_specifique: Literal['Bannissement']
+    sous_descripteur: Literal['Bannissement']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-345"
     descripteur: str = "bannissement"
 class Amende(BaseModel):
-    terme_specifique: Literal['Amende']
+    sous_descripteur: Literal['Amende']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-388"
     descripteur: str = "amende"
 class Galeres(BaseModel):
-    terme_specifique: Literal['Galeres']
+    sous_descripteur: Literal['Galeres']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-613"
     descripteur: str = "galères"
 class TravauxForces(BaseModel):
-    terme_specifique: Literal['TravauxForces']
+    sous_descripteur: Literal['TravauxForces']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-758"
     descripteur: str = "travaux forcés"
 class PeineDeSubstitution(BaseModel):
-    terme_specifique: Literal['PeineDeSubstitution']
+    sous_descripteur: Literal['PeineDeSubstitution']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-746"
     descripteur: str = "peine de substitution"
 class PeineCapitale(BaseModel):
-    terme_specifique: Literal['PeineCapitale']
+    sous_descripteur: Literal['PeineCapitale']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1009"
     descripteur: str = "peine capitale"
 class PeineCorporelle(BaseModel):
-    terme_specifique: Literal['PeineCorporelle']
+    sous_descripteur: Literal['PeineCorporelle']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1447"
     descripteur: str = "peine corporelle"
 class AssignationAResidence(BaseModel):
-    terme_specifique: Literal['AssignationAResidence']
+    sous_descripteur: Literal['AssignationAResidence']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1432"
     descripteur: str = "assignation à résidence"
 class Acquittement(BaseModel):
-    terme_specifique: Literal['Acquittement']
+    sous_descripteur: Literal['Acquittement']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-429"
     descripteur: str = "acquittement"
 class Extradition(BaseModel):
-    terme_specifique: Literal['Extradition']
+    sous_descripteur: Literal['Extradition']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-477"
     descripteur: str = "extradition"
 class Appel(BaseModel):
-    terme_specifique: Literal['Appel']
+    sous_descripteur: Literal['Appel']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-828"
     descripteur: str = "appel"
 class Nonlieu(BaseModel):
-    terme_specifique: Literal['Nonlieu']
+    sous_descripteur: Literal['Nonlieu']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-880"
     descripteur: str = "non-lieu"
 class Saisie(BaseModel):
-    terme_specifique: Literal['Saisie']
+    sous_descripteur: Literal['Saisie']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-924"
     descripteur: str = "saisie"
 class ClassementSansSuite(BaseModel):
-    terme_specifique: Literal['ClassementSansSuite']
+    sous_descripteur: Literal['ClassementSansSuite']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1037"
     descripteur: str = "classement sans suite"
 class VenteJudiciaire(BaseModel):
-    terme_specifique: Literal['VenteJudiciaire']
+    sous_descripteur: Literal['VenteJudiciaire']
     ark: str = "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1285"
     descripteur: str = "vente judiciaire"

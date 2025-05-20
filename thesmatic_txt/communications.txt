@@ -1,0 +1,72 @@
+communications
+    - transport
+        - circulation routière
+            - signalisation routière
+        - chauffeur de taxi
+        - transport ferroviaire
+            - ligne de chemin de fer
+            - liaison ferrée internationale
+        - port
+            - infrastructure portuaire
+            - port de pêche
+            - port maritime
+            - docker
+            - port de commerce
+            - port fluvial
+            - port de plaisance
+            - officier de port
+        - véhicule automobile
+        - transport multimodal
+            - ferroutage
+        - transport maritime
+            - signalisation maritime
+            - ligne maritime
+            - marin de commerce
+            - armement maritime
+        - bateau de plaisance
+        - transport en commun
+            - usager des transports
+        - automobiliste
+        - aéronef
+        - bateau de navigation intérieure
+        - transport fluvial
+        - navire
+        - transport à dos d'homme
+        - transport aérien
+            - servitude aéronautique
+            - navigation aérienne
+            - ligne aérienne
+        - transport par animal
+            - animal de bât
+            - véhicule à traction animale
+        - véhicule à deux roues
+        - transport routier
+            - liaison routière internationale
+            - poids lourd
+        - pilote
+        - aérodrome
+        - circulation urbaine
+        - gare
+    - messagerie
+        - pigeon voyageur
+        - télécommunications
+            - télématique
+            - réseau d'information
+            - télégraphe
+            - télex
+            - téléphone
+        - télédiffusion
+            - société de télédiffusion privée
+        - système d'information
+            - logiciel informatique
+            - matériel informatique
+        - poste
+            - service financier de la poste
+            - distribution postale
+            - tri postal
+        - radiodiffusion
+            - station de radiodiffusion privée
+        - service radio électrique
+            - servitude radio électrique
+            - appareil radio électrique
+            - station radio électrique privée
