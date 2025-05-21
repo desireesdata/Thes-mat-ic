@@ -1,8 +1,1 @@
-administration
-    - finances publiques
-    - police
-    - régime seigneurial
-    - fiscalité
-    - protection civile
-    - administration générale
-    - droit public
+administration(finances publiques; police; régime seigneurial; fiscalité; protection civile; administration générale; droit public)

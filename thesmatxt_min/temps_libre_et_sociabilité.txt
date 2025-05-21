@@ -1,5 +1,1 @@
-temps libre et sociabilité
-    - tourisme
-    - culture
-    - vie quotidienne
-    - loisir
+temps libre et sociabilité(tourisme; culture; vie quotidienne; loisir)

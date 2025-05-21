@@ -1,5 +1,1 @@
-équipement
-    - immobilier
-    - voie de communication
-    - urbanisme
-    - environnement
+équipement(immobilier; voie de communication; urbanisme; environnement)

@@ -1,5 +1,1 @@
-éducation et sciences
-    - recherche scientifique
-    - organisation scolaire
-    - enseignement
-    - vie scolaire
+éducation et sciences(recherche scientifique; organisation scolaire; enseignement; vie scolaire)

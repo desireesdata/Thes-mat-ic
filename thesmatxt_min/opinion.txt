@@ -1,7 +1,1 @@
-opinion
-    - vie publique
-    - vie politique
-    - mouvement d'idées
-    - vie religieuse
-    - élection
-    - croyances et sciences parallèles
+opinion(vie publique; vie politique; mouvement d'idées; vie religieuse; élection; croyances et sciences parallèles)

@@ -1,4 +1,1 @@
-extérieur
-    - défense du territoire
-    - relations internationales
-    - guerre
+extérieur(défense du territoire; relations internationales; guerre)

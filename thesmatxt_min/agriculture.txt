@@ -1,4 +1,1 @@
-agriculture
-    - économie rurale
-    - forêt
-    - production agricole
+agriculture(économie rurale; forêt; production agricole)
