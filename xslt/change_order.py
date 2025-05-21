@@ -26,7 +26,7 @@ for file_path in file_paths:
     classes.reverse()
 
     # Ajouter l'en-tête à chaque classe
-    header = "from pydantic import BaseModel\nfrom typing import Union, Literal\n\n"
+    header = "from pydantic import BaseModel, Field\nfrom typing import Union, Literal\n\n"
     new_content = header + '\n'.join(classes)
 
     # Déterminer le chemin du fichier de sortie
