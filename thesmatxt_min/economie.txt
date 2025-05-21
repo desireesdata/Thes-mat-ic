@@ -1,0 +1,6 @@
+économie
+    - industrie
+    - commerce
+    - entreprise
+    - action économique
+    - énergie

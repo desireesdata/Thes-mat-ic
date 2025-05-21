@@ -16,7 +16,7 @@
         <xsl:for-each select="//skos:ConceptScheme/skos:hasTopConcept">
             <xsl:variable name="topConceptUri" select="@rdf:resource"/>
             <xsl:variable name="topConcept" select="//skos:Concept[@rdf:about=$topConceptUri]"/>
-            <xsl:variable name="filename" select="concat(translate($topConcept/skos:prefLabel, ' ', '_'), '.txt')"/>
+            <xsl:variable name="filename" select="replace(concat(translate($topConcept/skos:prefLabel, ' ', '_'), '.txt'), 'é', 'e')"/>
             <xsl:result-document href="../thesmatxt_min/{$filename}">
                 <xsl:value-of select="$topConcept/skos:prefLabel"/>
                 <xsl:text>&#xA;</xsl:text>

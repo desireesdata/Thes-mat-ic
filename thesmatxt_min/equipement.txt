@@ -1,0 +1,5 @@
+équipement
+    - immobilier
+    - voie de communication
+    - urbanisme
+    - environnement

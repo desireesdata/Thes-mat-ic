@@ -1,1 +1,3 @@
-communications(transport; messagerie)
+communications
+    - transport
+    - messagerie
