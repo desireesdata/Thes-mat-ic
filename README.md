@@ -16,4 +16,8 @@ Voci comment est organisé l'implémentation pydantic du graphe rdf (dans /thesm
 
 Deux versions : dans `/thesmatic_inverse`, l'ordre des classes n'est pas celle, hiérarchique, du RDF, représenté dans le dossier "thesmatic". Mais celle de l'ordre de déclaration sans avoir à charger toute l'arborescence. Je recommande d'utiliser la version inverse.
 
+### Embeddings 
+
+
+
 [^1]: http://data.culture.fr/thesaurus/page/ark:/67717/Matiere

@@ -1,0 +1,177 @@
+opinion
+    - vie publique
+        - association
+            - fondation
+            - association reconnue d'utilité publique
+        - dons-et-legs
+        - société révolutionnaire
+        - cérémonie publique
+            - visite officielle
+            - entrée solennelle
+            - prière publique
+            - réception officielle
+            - inauguration
+            - cérémonie militaire
+            - deuil public
+        - presse
+            - reporter photographe
+            - dépôt légal
+            - journaliste
+            - publication interne
+            - presse régionale
+        - relations publiques
+            - intervention d'élu
+            - communication institutionnelle
+            - relations avec les usagers
+        - société secrète
+            - franc maçon
+        - personnalité
+        - symbolique officielle
+            - costume officiel
+            - hymne national
+            - drapeau
+            - fête nationale
+        - censure
+        - opinion publique
+        - jumelage
+        - propagande
+        - secte
+        - commémoration
+        - baptême civil
+        - distinction honorifique
+        - armoiries
+        - manifestation publique
+            - réunion publique
+            - manifestation de protestation
+            - mouvement populaire
+            - manifestation antinationale
+            - manifestation d'adhésion au régime
+    - vie politique
+        - acte d'opposition
+            - chanson subversive
+            - propos subversif
+            - clandestinité
+            - écrit subversif
+        - parti politique
+            - militant politique
+            - congrès politique
+            - dissident
+        - mouvement politique et sociétal
+            - mouvement laïque
+            - fascisme
+            - centrisme
+            - républicanisme
+            - socialisme
+            - anticapitalisme
+            - anarchisme
+            - nationalisme
+            - mouvement écologiste
+            - colonialisme
+            - communisme
+            - gaullisme
+            - mouvement régionaliste
+            - mouvement étudiant
+            - cléricalisme
+            - mouvement ouvrier
+            - libéralisme
+            - radicalisme
+            - extrême droite
+            - extrême gauche
+            - royalisme
+            - bonapartisme
+            - mouvement féministe
+            - mouvement autonomiste
+            - mouvement homosexuel
+            - mouvement pacifiste
+    - mouvement d'idées
+        - vie intellectuelle
+        - philosophie
+        - tolérance
+            - persécution religieuse
+            - antisémitisme
+            - racisme
+        - droits de l'homme
+        - athéisme
+    - vie religieuse
+        - pratique religieuse
+            - pèlerinage
+            - service religieux
+        - association cultuelle
+            - congrégation
+            - confrérie
+            - société de charité
+            - tiers-ordre
+        - institution ecclésiastique
+            - circonscription ecclésiastique
+            - assemblée générale du clergé
+            - institution monastique
+            - inquisition
+            - fabrique d'église
+            - administration diocésaine
+            - séminaire religieux
+            - papauté
+            - missions
+            - concile
+        - manifestation antireligieuse
+            - impiété
+        - vie spirituelle
+            - miracle
+            - mysticisme
+            - spiritualité
+            - théologie
+            - livre saint
+        - presbytère
+        - culte
+            - judaïsme
+            - hindouisme
+            - islam
+            - chamanisme
+            - catholicisme
+            - religion orthodoxe
+            - bouddhisme
+            - protestantisme
+            - taoïsme
+        - ministre du culte
+        - édifice cultuel
+        - temporel ecclésiastique
+        - hérésie
+    - élection
+        - élection sociale
+            - élection professionnelle
+        - élu
+            - président du conseil régional
+            - conseiller régional
+            - maire
+            - conseiller municipal
+            - parlementaire
+            - président du conseil général
+            - conseiller général
+            - conseiller d'arrondissement
+            - échevin
+            - président d'établissement public de coopération intercommunale
+        - élection politique
+            - élection régionale
+            - élection cantonale
+            - élection municipale
+            - élection européenne
+            - élection présidentielle
+            - élection sénatoriale
+            - référendum
+            - élection au conseil d'arrondissement
+            - élection législative
+        - campagne électorale
+        - électeur
+            - droits civiques
+            - collège électoral
+        - découpage électoral
+    - croyances et sciences parallèles
+        - sciences parallèles
+            - ésotérisme
+            - astrologie
+            - alchimie
+            - graphologie
+            - spiritisme
+        - croyances populaires
+            - mythe
+        - magie
+            - sorcellerie

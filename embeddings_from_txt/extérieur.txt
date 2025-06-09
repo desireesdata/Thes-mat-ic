@@ -1,0 +1,81 @@
+extérieur
+    - défense du territoire
+        - infrastructure militaire
+            - génie militaire
+            - terrain militaire
+            - fortification
+            - cimetière militaire
+            - caserne
+            - arsenal
+            - base aérienne
+        - recrutement militaire
+            - conscription
+            - enrôlement
+        - service civique
+        - organisation de l'armée
+            - ravitaillement militaire
+            - équipement militaire
+            - réquisitions militaires
+            - état-major
+            - service sanitaire militaire
+            - remonte militaire
+        - armée
+            - marine
+            - légion étrangère
+            - armée de terre
+            - armée de l'air
+        - militaire
+            - officier militaire
+            - demi-solde
+            - école militaire
+            - gens de guerre
+        - milices
+            - garde nationale
+            - milices bourgeoises
+            - milices provinciales
+        - mobilisation
+        - police militaire
+        - manoeuvre militaire
+    - relations internationales
+        - francophonie
+        - frontière
+            - blocus
+            - annexion de territoire
+        - colonie
+            - colonisation
+            - indépendance
+        - organisation internationale
+        - représentation diplomatique
+            - diplomate
+        - relations européennes
+        - aide au développement
+    - guerre
+        - opération militaire
+        - réfugié de guerre
+        - bombardement
+        - ravitaillement
+            - rationnement
+            - marché noir
+        - camp d'internement
+            - internement administratif
+        - ancien combattant
+        - victime de guerre
+            - pupille de la nation
+            - déporté
+            - veuve de guerre
+            - mort pour la France
+        - forces alliées
+        - dommages de guerre
+            - bien spolié
+            - bien sinistré
+        - occupation étrangère
+            - épuration
+            - résistance
+            - collaboration
+            - autorité d'occupation
+        - chantier de la jeunesse
+        - prisonnier de guerre
+        - travail contraint
+        - défense passive
+            - abri
+        - oeuvre de guerre

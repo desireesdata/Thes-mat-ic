@@ -1,0 +1,233 @@
+administration
+    - finances publiques
+        - finances locales
+            - finances régionales
+            - finances communales
+            - finances intercommunales
+            - finances départementales
+        - propriété publique
+            - produit domanial
+            - domaine mobilier
+            - biens intercommunaux
+            - biens nationaux
+            - biens communaux
+            - bien administré
+            - acquisition domaniale
+            - biens régionaux
+            - concession funéraire
+            - biens départementaux
+            - domaine immobilier
+            - aliénation domaniale
+            - concession domaniale
+        - domaine public
+            - domaine public maritime
+            - occupation temporaire du domaine public
+            - servitude
+            - domaine public fluvial
+        - comptabilité publique
+            - recette non fiscale
+            - fonds européen
+            - dépense d'investissement
+            - dépense de fonctionnement
+            - dette publique
+            - recette fiscale
+        - monnaie
+        - commande publique
+    - police
+        - maintien de l'ordre
+        - police administrative
+            - pompes funèbres
+            - profession réglementée
+            - détention d'armes
+            - séjour des étrangers
+            - recherche dans l'intérêt des familles
+            - transport de corps
+        - surveillance du territoire
+            - police des frontières
+            - circulation des personnes
+            - clandestin
+            - reconduite à la frontière
+        - police des transports
+        - police des moeurs
+            - pornographie
+            - prostitution
+            - établissement interdit aux mineurs
+        - police des jeux
+        - police judiciaire
+            - garde à vue
+            - interdit de séjour
+            - individu recherché
+            - arrestation
+        - police de la chasse
+            - lieutenant de louveterie
+        - police de la pêche
+        - police des cultes
+        - agent de la force publique
+            - gendarmerie
+            - garde particulier
+            - garde forestier
+            - police municipale
+            - police urbaine
+            - maréchaussée
+        - police des eaux
+    - régime seigneurial
+        - privilèges des communautés
+            - coutumes
+            - droits d'usage
+        - droits seigneuriaux
+        - féodalité
+            - hommage
+            - serment de fidélité
+            - dénombrement seigneurial
+        - droits honorifiques
+        - administration seigneuriale
+            - reconnaissances
+            - agent seigneurial
+            - réformation
+        - alleu
+    - fiscalité
+        - fiscalité directe d'Ancien Régime
+        - fiscalité professionnelle
+            - taxe professionnelle
+            - impôt sur les bénéfices
+            - taxe sur le chiffre d'affaires
+            - impôt sur les sociétés
+            - taxe d'apprentissage
+        - contributions indirectes
+            - fiscalité pétrolière
+            - monopoles fiscaux
+            - droits de circulation
+        - fiscalité immobilière
+            - publicité foncière
+            - évaluation foncière
+            - cadastre
+            - taxe foncière
+        - fiscalité des personnes
+            - impôt sur la fortune
+            - impôt social
+            - impôt sur le revenu
+        - redevance parafiscale
+        - impôts locaux
+            - octroi
+            - impôts provinciaux d'Ancien Régime
+            - droit de place
+            - droit des pauvres
+            - taxe de séjour
+            - taxe d'habitation
+        - corvée royale
+        - fraude fiscale
+            - contrebande
+        - enregistrement
+            - droits de succession
+        - droits de douane
+        - exonération fiscale
+        - taxe extraordinaire d'Ancien Régime
+            - office d'Ancien Régime
+            - droits réservés
+        - droits domaniaux d'Ancien Régime
+        - recouvrement fiscal
+        - timbre fiscal
+        - fiscalité directe révolutionnaire
+        - contribuable
+    - protection civile
+        - sécurité routière
+        - établissement recevant du public
+        - installation classée
+        - accident des transports
+        - appareil à pression de vapeur
+        - sinistre
+            - incendie
+            - inondation
+            - catastrophe industrielle
+            - catastrophe naturelle
+        - transport de matières dangereuses
+        - immeuble de grande hauteur
+        - secours
+            - police secours
+            - aide médicale urgente
+            - sauvetage en mer
+            - sapeur pompier
+            - équipement de secours
+    - administration générale
+        - collectivité locale
+            - région
+            - regroupement de communes
+            - département
+            - coopération interrégionale
+            - établissement public de coopération intercommunale
+            - commune
+        - personnel
+            - fonctionnaire de l'État
+            - fonctionnaire hospitalier
+            - fonctionnaire de l'Union européenne
+            - agent de droit privé
+            - fonctionnaire territorial
+            - agent de l'administration royale
+            - conseil de discipline
+            - agent non titulaire
+            - concours administratif
+        - organe délibérant
+            - conseil régional
+            - assemblée européenne
+            - assemblée nationale
+            - conseil général
+            - conseil d'arrondissement
+            - conseil municipal
+            - états généraux
+            - assemblée générale
+            - conseil d'administration
+            - conseil communautaire
+            - états provinciaux
+        - transfert de compétences
+            - décentralisation
+            - régionalisation
+            - délocalisation
+            - déconcentration
+        - structure administrative
+            - organisme consultatif
+            - administration départementale
+            - administration cantonale d'époque révolutionnaire
+            - organisme parapublic
+            - administration régionale
+            - établissement public national
+            - organisme administratif européen
+            - administration centrale
+            - service extérieur
+            - établissement public local
+            - administration communale
+            - administration locale d'Ancien Régime
+            - service déconcentré
+            - administration préfectorale
+        - bâtiment administratif
+            - hôtel du département
+            - cité administrative
+            - palais de justice
+            - hôtel de ville
+            - hôtel de la sous-préfecture
+            - hôtel de région
+            - hôtel communautaire
+            - hôtel de la préfecture
+        - circonscription territoriale
+            - canton
+            - ressort judiciaire
+            - limite territoriale
+            - seigneurie
+            - arrondissement
+            - district révolutionnaire
+            - domaine royal
+            - agglomération urbaine
+            - sénéchaussée
+            - pays
+            - généralité
+            - circonscription fiscale
+            - province
+    - droit public
+        - constitution
+        - État
+            - monarchie
+            - république
+            - chef d'État
+        - institutions
+        - législation
+        - droit communautaire
+        - démocratie

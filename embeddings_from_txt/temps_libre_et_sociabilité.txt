@@ -1,0 +1,118 @@
+temps libre et sociabilité
+    - tourisme
+        - équipement touristique
+            - gîte rural
+            - hôtel de tourisme
+            - refuge de montagne
+            - résidence de tourisme
+            - restaurant de tourisme
+            - terrain de camping
+        - tourisme balnéaire
+        - chemin de randonnée
+        - tourisme fluvial
+        - association de tourisme
+        - tourisme social
+            - centre de vacances
+            - auberge de jeunesse
+            - maison familiale de vacances
+        - tourisme de montagne
+        - agence de voyages
+        - guide interprète
+        - camping caravaning
+        - tourisme rural
+        - tourisme urbain
+        - circuit touristique
+        - organisme local de tourisme
+        - cyclotourisme
+    - culture
+        - archéologie
+            - archéologie aérienne
+            - archéologie subaquatique
+            - archéologie sous-marine
+            - archéologie du sol
+        - mécénat
+        - équipement socioculturel
+            - foyer rural
+            - conservatoire
+            - musée
+            - médiathèque
+            - kiosque à musique
+            - centre d'archives
+            - maison des jeunes
+            - salle des fêtes
+            - salle de spectacles
+            - bibliothèque
+            - centre de documentation
+        - art
+            - danse
+            - architecture
+            - cinéma
+            - création audiovisuelle
+            - littérature
+            - art dramatique
+            - musique
+            - arts plastiques
+        - entreprise de spectacle
+            - formation musicale
+            - cirque
+            - compagnie chorégraphique
+            - compagnie théâtrale
+        - patrimoine culturel
+            - oeuvre d'art
+            - langue régionale
+            - patrimoine ethnologique
+            - patrimoine scientifique et technique
+            - patrimoine numérique
+            - patrimoine audiovisuel
+            - patrimoine écrit
+            - patrimoine iconographique
+            - patrimoine architectural
+            - monument historique
+            - édifice classé
+            - objet d'art
+        - éducation populaire
+            - université populaire
+        - action culturelle
+            - animateur socioculturel
+        - artiste
+        - manifestation culturelle
+    - vie quotidienne
+        - activité ménagère
+        - alimentation
+        - animal de compagnie
+        - vêtement
+        - comptabilité privée
+        - espace domestique
+        - mobilier
+    - loisir
+        - sport
+            - discipline sportive
+            - jeux olympiques
+            - manifestation sportive
+            - installation sportive
+            - handisport
+            - association sportive
+        - navigation de plaisance
+        - centre de loisirs
+        - fête
+            - fête foraine
+            - bal public
+            - carnaval
+        - parc de loisirs
+        - chasse
+            - lot de chasse
+            - association de chasse
+            - chasseur
+        - pêche à la ligne
+            - lot de pêche
+            - pêcheur
+            - association de pêche
+        - mouvement de jeunesse
+        - jeux-et-paris
+            - casino
+            - loterie
+            - course hippique
+            - jeu de cartes
+            - appareil de jeu
+        - tauromachie
+        - jeu-concours

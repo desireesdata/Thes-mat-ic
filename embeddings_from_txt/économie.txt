@@ -1,0 +1,143 @@
+économie
+    - industrie
+        - industrie du bois
+            - industrie papetière
+        - industrie du cuir
+        - industrie extractive
+            - carrière
+            - recherche minière
+            - mineur de fond
+            - prospection pétrolière
+            - exploitation minière
+        - industrie maritime
+            - construction navale
+        - industrie textile
+        - industrie électronique
+            - composant électronique
+        - matière première
+            - hydrocarbure
+            - houille
+            - minerai
+            - gaz naturel
+        - industrie agroalimentaire
+        - industrie mécanique
+            - construction automobile
+            - construction aéronautique
+        - industrie chimique
+        - bâtiment industriel
+            - manufacture
+        - industrie spatiale
+        - industrie du verre
+        - industrie du feu
+            - briqueterie
+            - tuilerie
+            - pyrotechnie
+            - poterie
+        - métallurgie
+        - artisanat
+    - commerce
+        - vente aux enchères
+        - magasin général
+        - métiers du livre
+            - imprimeur
+            - éditeur
+            - libraire
+        - consommation
+            - association de consommateurs
+        - armurier
+        - poids-et-mesures
+        - courtier de marchandises
+        - commerce alimentaire
+            - débit de boissons
+            - boucherie
+            - boulangerie
+            - épicerie
+        - services
+            - agent de sécurité
+            - coiffeur
+            - détective privé
+            - école de conduite
+            - agent d'assurances
+        - marché de détail
+            - marchand forain
+            - colporteur
+        - commerce extérieur
+        - marché en gros
+            - marché d'intérêt national
+        - commerce de détail
+        - manifestation commerciale
+        - grande surface commerciale
+        - voyageur représentant placier
+        - publicité
+            - affichage
+        - agent de change
+        - fraude commerciale
+            - publicité mensongère
+        - brocanteur
+        - vente au déballage
+            - soldes
+        - débit de tabac
+    - entreprise
+        - organisation professionnelle
+            - compagnonnage
+            - délégué consulaire
+            - chambre consulaire
+            - corporation
+        - société civile professionnelle
+        - entreprise en difficulté
+        - compagnie d'assurances
+        - fonds de commerce
+            - magasin collectif
+            - établissement artisanal
+            - baux commerciaux
+        - établissement de crédit
+            - caisse d'épargne
+            - prêteur
+            - banque mutualiste
+        - comptabilité d'entreprise
+            - commissaire aux comptes
+        - société coopérative
+        - chef d'entreprise
+            - artisan
+            - commerçant étranger
+            - commerçant
+        - société commerciale
+            - société de services
+            - entreprise industrielle
+        - entreprise publique
+        - société d'économie mixte
+        - création d'entreprise
+    - action économique
+        - économie montagnarde
+        - aide publique aux entreprises
+        - aménagement du territoire
+            - aménagement du littoral
+            - politique de la montagne
+            - décentralisation industrielle
+            - ville nouvelle
+            - zone d'activités
+            - politique de la ville
+            - zone industrielle
+        - planification
+            - contrat de plan
+        - développement durable
+        - police économique
+            - entente
+            - concentration
+        - label de qualité
+        - prix
+        - coût de la vie
+    - énergie
+        - production électrique
+            - centrale nucléaire
+            - barrage hydroélectrique
+            - centrale thermique
+        - bio-carburant
+        - énergie renouvelable
+            - énergie géothermique
+            - énergie hydraulique
+            - énergie solaire
+            - énergie de la mer
+            - énergie éolienne
+        - énergie nucléaire
+        - économie d'énergie
