@@ -1,118 +1,118 @@
-temps libre et sociabilité
-- tourisme
-- équipement touristique
-- gîte rural
-- hôtel de tourisme
-- refuge de montagne
-- résidence de tourisme
-- restaurant de tourisme
-- terrain de camping
-- tourisme balnéaire
-- chemin de randonnée
-- tourisme fluvial
-- association de tourisme
-- tourisme social
-- centre de vacances
-- auberge de jeunesse
-- maison familiale de vacances
-- tourisme de montagne
-- agence de voyages
-- guide interprète
-- camping caravaning
-- tourisme rural
-- tourisme urbain
-- circuit touristique
-- organisme local de tourisme
-- cyclotourisme
-- culture
-- archéologie
-- archéologie aérienne
-- archéologie subaquatique
-- archéologie sous-marine
-- archéologie du sol
-- mécénat
-- équipement socioculturel
-- foyer rural
-- conservatoire
-- musée
-- médiathèque
-- kiosque à musique
-- centre d'archives
-- maison des jeunes
-- salle des fêtes
-- salle de spectacles
-- bibliothèque
-- centre de documentation
-- art
-- danse
-- architecture
-- cinéma
-- création audiovisuelle
-- littérature
-- art dramatique
-- musique
-- arts plastiques
-- entreprise de spectacle
-- formation musicale
-- cirque
-- compagnie chorégraphique
-- compagnie théâtrale
-- patrimoine culturel
-- oeuvre d'art
-- langue régionale
-- patrimoine ethnologique
-- patrimoine scientifique et technique
-- patrimoine numérique
-- patrimoine audiovisuel
-- patrimoine écrit
-- patrimoine iconographique
-- patrimoine architectural
-- monument historique
-- édifice classé
-- objet d'art
-- éducation populaire
-- université populaire
-- action culturelle
-- animateur socioculturel
-- artiste
-- manifestation culturelle
-- vie quotidienne
-- activité ménagère
-- alimentation
-- animal de compagnie
-- vêtement
-- comptabilité privée
-- espace domestique
-- mobilier
-- loisir
-- sport
-- discipline sportive
-- jeux olympiques
-- manifestation sportive
-- installation sportive
-- handisport
-- association sportive
-- navigation de plaisance
-- centre de loisirs
-- fête
-- fête foraine
-- bal public
-- carnaval
-- parc de loisirs
-- chasse
-- lot de chasse
-- association de chasse
-- chasseur
-- pêche à la ligne
-- lot de pêche
-- pêcheur
-- association de pêche
-- mouvement de jeunesse
-- jeux-et-paris
-- casino
-- loterie
-- course hippique
-- jeu de cartes
-- appareil de jeu
-- tauromachie
-- jeu-concours
+temps libre et sociabilité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1359
+tourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-632
+équipement touristique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-909
+gîte rural	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-366
+hôtel de tourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-225
+refuge de montagne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-125
+résidence de tourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-600
+restaurant de tourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-935
+terrain de camping	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1342
+tourisme balnéaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-342
+chemin de randonnée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-24
+tourisme fluvial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-37
+association de tourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-154
+tourisme social	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1412
+centre de vacances	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-311
+auberge de jeunesse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-237
+maison familiale de vacances	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1415
+tourisme de montagne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-687
+agence de voyages	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-697
+guide interprète	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1068
+camping caravaning	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1290
+tourisme rural	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1144
+tourisme urbain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-827
+circuit touristique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1102
+organisme local de tourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1378
+cyclotourisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1272
+culture	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-786
+archéologie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-648
+archéologie aérienne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-540
+archéologie subaquatique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-664
+archéologie sous-marine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1017
+archéologie du sol	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1469
+mécénat	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1198
+équipement socioculturel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-213
+foyer rural	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-332
+conservatoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-704
+musée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-114
+médiathèque	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-578
+kiosque à musique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-693
+centre d'archives	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-254
+maison des jeunes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-871
+salle des fêtes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-305
+salle de spectacles	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1241
+bibliothèque	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1459
+centre de documentation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1034
+art	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-608
+danse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-43
+architecture	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-160
+cinéma	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1110
+création audiovisuelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-330
+littérature	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-360
+art dramatique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-514
+musique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-731
+arts plastiques	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-897
+entreprise de spectacle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1311
+formation musicale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-75
+cirque	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-297
+compagnie chorégraphique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-689
+compagnie théâtrale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1180
+patrimoine culturel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-123
+oeuvre d'art	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-226
+langue régionale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-562
+patrimoine ethnologique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-991
+patrimoine scientifique et technique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-484
+patrimoine numérique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-889
+patrimoine audiovisuel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1343
+patrimoine écrit	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1337
+patrimoine iconographique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1223
+patrimoine architectural	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1500
+monument historique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-995
+édifice classé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-658
+objet d'art	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-825
+éducation populaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-86
+université populaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1407
+action culturelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-338
+animateur socioculturel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-899
+artiste	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-963
+manifestation culturelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-834
+vie quotidienne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-373
+activité ménagère	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-183
+alimentation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-782
+animal de compagnie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1042
+vêtement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1252
+comptabilité privée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-686
+espace domestique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-416
+mobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-900
+loisir	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1173
+sport	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-639
+discipline sportive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-335
+jeux olympiques	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-221
+manifestation sportive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-926
+installation sportive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-585
+handisport	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-850
+association sportive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1368
+navigation de plaisance	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-255
+centre de loisirs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-684
+fête	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1437
+fête foraine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-79
+bal public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-380
+carnaval	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1400
+parc de loisirs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-789
+chasse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-389
+lot de chasse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-637
+association de chasse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1371
+chasseur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1091
+pêche à la ligne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1182
+lot de pêche	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-340
+pêcheur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-381
+association de pêche	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-876
+mouvement de jeunesse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-709
+jeux-et-paris	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1060
+casino	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-933
+loterie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-348
+course hippique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-703
+jeu de cartes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1304
+appareil de jeu	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1309
+tauromachie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-393
+jeu-concours	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-814

@@ -1,143 +1,143 @@
-économie
-- industrie
-- industrie du bois
-- industrie papetière
-- industrie du cuir
-- industrie extractive
-- carrière
-- recherche minière
-- mineur de fond
-- prospection pétrolière
-- exploitation minière
-- industrie maritime
-- construction navale
-- industrie textile
-- industrie électronique
-- composant électronique
-- matière première
-- hydrocarbure
-- houille
-- minerai
-- gaz naturel
-- industrie agroalimentaire
-- industrie mécanique
-- construction automobile
-- construction aéronautique
-- industrie chimique
-- bâtiment industriel
-- manufacture
-- industrie spatiale
-- industrie du verre
-- industrie du feu
-- briqueterie
-- tuilerie
-- pyrotechnie
-- poterie
-- métallurgie
-- artisanat
-- commerce
-- vente aux enchères
-- magasin général
-- métiers du livre
-- imprimeur
-- éditeur
-- libraire
-- consommation
-- association de consommateurs
-- armurier
-- poids-et-mesures
-- courtier de marchandises
-- commerce alimentaire
-- débit de boissons
-- boucherie
-- boulangerie
-- épicerie
-- services
-- agent de sécurité
-- coiffeur
-- détective privé
-- école de conduite
-- agent d'assurances
-- marché de détail
-- marchand forain
-- colporteur
-- commerce extérieur
-- marché en gros
-- marché d'intérêt national
-- commerce de détail
-- manifestation commerciale
-- grande surface commerciale
-- voyageur représentant placier
-- publicité
-- affichage
-- agent de change
-- fraude commerciale
-- publicité mensongère
-- brocanteur
-- vente au déballage
-- soldes
-- débit de tabac
-- entreprise
-- organisation professionnelle
-- compagnonnage
-- délégué consulaire
-- chambre consulaire
-- corporation
-- société civile professionnelle
-- entreprise en difficulté
-- compagnie d'assurances
-- fonds de commerce
-- magasin collectif
-- établissement artisanal
-- baux commerciaux
-- établissement de crédit
-- caisse d'épargne
-- prêteur
-- banque mutualiste
-- comptabilité d'entreprise
-- commissaire aux comptes
-- société coopérative
-- chef d'entreprise
-- artisan
-- commerçant étranger
-- commerçant
-- société commerciale
-- société de services
-- entreprise industrielle
-- entreprise publique
-- société d'économie mixte
-- création d'entreprise
-- action économique
-- économie montagnarde
-- aide publique aux entreprises
-- aménagement du territoire
-- aménagement du littoral
-- politique de la montagne
-- décentralisation industrielle
-- ville nouvelle
-- zone d'activités
-- politique de la ville
-- zone industrielle
-- planification
-- contrat de plan
-- développement durable
-- police économique
-- entente
-- concentration
-- label de qualité
-- prix
-- coût de la vie
-- énergie
-- production électrique
-- centrale nucléaire
-- barrage hydroélectrique
-- centrale thermique
-- bio-carburant
-- énergie renouvelable
-- énergie géothermique
-- énergie hydraulique
-- énergie solaire
-- énergie de la mer
-- énergie éolienne
-- énergie nucléaire
-- économie d'énergie
+économie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-543
+industrie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-527
+industrie du bois	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-497
+industrie papetière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-845
+industrie du cuir	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-10
+industrie extractive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-481
+carrière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-19
+recherche minière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-173
+mineur de fond	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1052
+prospection pétrolière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-535
+exploitation minière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1455
+industrie maritime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-59
+construction navale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-964
+industrie textile	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-203
+industrie électronique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-81
+composant électronique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-236
+matière première	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1326
+hydrocarbure	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-647
+houille	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-94
+minerai	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-268
+gaz naturel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1023
+industrie agroalimentaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-244
+industrie mécanique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-849
+construction automobile	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1374
+construction aéronautique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-272
+industrie chimique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1145
+bâtiment industriel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-315
+manufacture	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1402
+industrie spatiale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1116
+industrie du verre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-873
+industrie du feu	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1267
+briqueterie	http://data.culture.fr/thesaurus/resource/ark:/67717/9ba975ce-cf1d-4296-b41c-56feb24b44c1
+tuilerie	http://data.culture.fr/thesaurus/resource/ark:/67717/0f56930a-b6e1-4526-abf7-d6dc2044801a
+pyrotechnie	http://data.culture.fr/thesaurus/resource/ark:/67717/389242ac-8cc8-4cd7-87f0-e722c00a7b9d
+poterie	http://data.culture.fr/thesaurus/resource/ark:/67717/0e632b89-9db1-4903-a388-358ba80de079
+métallurgie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-913
+artisanat	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1467
+commerce	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1248
+vente aux enchères	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-13
+magasin général	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-65
+métiers du livre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-88
+imprimeur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-752
+éditeur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1212
+libraire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-397
+consommation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-581
+association de consommateurs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-98
+armurier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-108
+poids-et-mesures	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-135
+courtier de marchandises	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-220
+commerce alimentaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-869
+débit de boissons	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-826
+boucherie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-644
+boulangerie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1178
+épicerie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1063
+services	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-801
+agent de sécurité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-248
+coiffeur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-587
+détective privé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-733
+école de conduite	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1141
+agent d'assurances	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1363
+marché de détail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-274
+marchand forain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1078
+colporteur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1385
+commerce extérieur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-456
+marché en gros	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-785
+marché d'intérêt national	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-941
+commerce de détail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-431
+manifestation commerciale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-470
+grande surface commerciale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1155
+voyageur représentant placier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-851
+publicité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-490
+affichage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-931
+agent de change	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-516
+fraude commerciale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-932
+publicité mensongère	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-711
+brocanteur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1351
+vente au déballage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1101
+soldes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-947
+débit de tabac	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1384
+entreprise	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-885
+organisation professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1025
+compagnonnage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-23
+délégué consulaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-505
+chambre consulaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-776
+corporation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1098
+société civile professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-27
+entreprise en difficulté	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-724
+compagnie d'assurances	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-513
+fonds de commerce	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1158
+magasin collectif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-118
+établissement artisanal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-596
+baux commerciaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-844
+établissement de crédit	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-314
+caisse d'épargne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-263
+prêteur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-622
+banque mutualiste	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1386
+comptabilité d'entreprise	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1294
+commissaire aux comptes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-445
+société coopérative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-817
+chef d'entreprise	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1038
+artisan	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-810
+commerçant étranger	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-521
+commerçant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-846
+société commerciale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1190
+société de services	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-949
+entreprise industrielle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-550
+entreprise publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-691
+société d'économie mixte	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-701
+création d'entreprise	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-938
+action économique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-148
+économie montagnarde	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-116
+aide publique aux entreprises	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-920
+aménagement du territoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-554
+aménagement du littoral	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-399
+politique de la montagne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-52
+décentralisation industrielle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-182
+ville nouvelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1446
+zone d'activités	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-961
+politique de la ville	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1192
+zone industrielle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1431
+planification	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-129
+contrat de plan	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-187
+développement durable	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-511
+police économique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-939
+entente	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1204
+concentration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1024
+label de qualité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1234
+prix	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-568
+coût de la vie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1466
+énergie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-166
+production électrique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-457
+centrale nucléaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1443
+barrage hydroélectrique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1089
+centrale thermique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1441
+bio-carburant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1019
+énergie renouvelable	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1315
+énergie géothermique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-92
+énergie hydraulique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-430
+énergie solaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-775
+énergie de la mer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-973
+énergie éolienne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1355
+énergie nucléaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1373
+économie d'énergie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-452

@@ -1,206 +1,206 @@
-société
-- population
-- population rurale
-- migration rurale
-- état civil
-- décès
-- naissance
-- mariage
-- étranger
-- réfugié
-- immigration
-- naturalisation
-- émigration
-- enfant
-- jeune
-- subsistances
-- famine
-- migration saisonnière
-- suicide
-- personne âgée
-- juif
-- femme
-- nomade
-- famille
-- sans domicile fixe
-- recensement de population
-- harki
-- population urbaine
-- démographie
-- rapatrié
-- gitan
-- protection sociale
-- action sociale
-- travailleur social
-- association socioéducative
-- association familiale
-- exclusion sociale
-- indigent
-- mendicité
-- sécurité sociale
-- société mutualiste
-- organisme de sécurité sociale
-- aide sociale
-- aide médicale
-- structure communale d'aide sociale
-- aide judiciaire
-- prestation d'aide sociale légale
-- allocation logement
-- allocation militaire
-- aide sociale facultative
-- aide sociale à l'enfance
-- enfant en garde
-- enfant secouru
-- pupille de l'État
-- conseil de famille
-- orphelinat
-- adoption
-- action humanitaire
-- alphabétisation
-- collecte publique
-- assurance sociale
-- assurance maternité
-- assurance chômage
-- assurance maladie
-- assurance vieillesse
-- assurance décès
-- assurance invalidité
-- assurance veuvage
-- placement familial
-- prestation familiale
-- insertion sociale
-- personne handicapée
-- enfant handicapé
-- invalide du travail
-- adulte handicapé
-- invalide de guerre
-- emploi
-- formation professionnelle
-- formateur
-- formation qualifiante
-- organisme de formation
-- stagiaire
-- emploi à temps partiel
-- chômage
-- chômage partiel
-- demandeur d'emploi
-- emploi aidé
-- travailleur handicapé
-- travail protégé
-- emploi réservé
-- offre d'emploi
-- examen professionnel
-- cumul d'emploi
-- insertion professionnelle
-- travailleur étranger
-- trafic de main d'oeuvre
-- licenciement
-- licenciement économique
-- travailleur frontalier
-- travail clandestin
-- carrière professionnelle
-- retraité
-- population active
-- atelier de charité
-- condition des personnes et des biens
-- condition sociale
-- noblesse
-- esclavage
-- prolétariat
-- servage
-- tiers état
-- bourgeoisie
-- droit de la famille
-- enfant naturel
-- émancipation
-- régime matrimonial
-- succession
-- patrimoine privé
-- droit des obligations
-- dette
-- travail
-- conditions du travail
-- durée du travail
-- repos hebdomadaire
-- rémunération
-- congés payés
-- travail de nuit
-- horaire de travail
-- travail des enfants
-- ouvrier
-- intéressement des travailleurs
-- sécurité du travail
-- machine dangereuse
-- maladie professionnelle
-- médecine du travail
-- accident du travail
-- profession particulière
-- employé de maison
-- concierge
-- travailleur à domicile
-- relations du travail
-- conflit du travail
-- délégué du personnel
-- comité d'entreprise
-- syndicat professionnel
-- entreprise de travail temporaire
-- restauration collective
-- santé
-- thermoclimatisme
-- hygiène
-- hygiène alimentaire
-- amiante
-- désinfection
-- profession médicale
-- médecin hospitalier
-- médecin
-- chirurgien dentiste
-- pharmacien
-- auxiliaire médical
-- sage femme
-- établissement de santé
-- construction hospitalière
-- population hospitalière
-- établissement sanitaire privé
-- léproserie
-- hôpital psychiatrique
-- établissement public d'hospitalisation
-- sanatorium
-- équipement médico chirurgical
-- hôtel-dieu
-- protection maternelle et infantile
-- puéricultrice
-- halte garderie
-- crèche
-- assistante maternelle
-- mortalité infantile
-- interruption volontaire de grossesse
-- contraception
-- accouchement
-- action sanitaire
-- cancer
-- maladie sexuellement transmissible
-- lèpre
-- épidémie
-- tuberculose
-- maladie mentale
-- maladie à déclaration obligatoire
-- alcoolisme
-- tabagisme
-- toxicomanie
-- sida
-- soins médicaux
-- organisation sanitaire
-- transport sanitaire
-- établissement médico social
-- transfusion sanguine
-- installation radiologique
-- vaccination
-- laboratoire d'analyse
-- pharmacie
-- officine pharmaceutique
-- spécialité pharmaceutique
-- substance vénéneuse
-- produit cosmétique
-- hygiène sociale
-- alcoolique
+société	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-307
+population	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1066
+population rurale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-764
+migration rurale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1454
+état civil	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1139
+décès	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1348
+naissance	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-77
+mariage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1201
+étranger	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-860
+réfugié	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-106
+immigration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-815
+naturalisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1240
+émigration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-44
+enfant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-946
+jeune	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-558
+subsistances	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1450
+famine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-564
+migration saisonnière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-667
+suicide	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-191
+personne âgée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-404
+juif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-269
+femme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-312
+nomade	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-339
+famille	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-411
+sans domicile fixe	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-426
+recensement de population	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-781
+harki	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-910
+population urbaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1271
+démographie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1314
+rapatrié	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1191
+gitan	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1424
+protection sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1299
+action sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-200
+travailleur social	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-20
+association socioéducative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1096
+association familiale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-406
+exclusion sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-45
+indigent	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-678
+mendicité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-420
+sécurité sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-432
+société mutualiste	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-97
+organisme de sécurité sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-230
+aide sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1168
+aide médicale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-53
+structure communale d'aide sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-357
+aide judiciaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-371
+prestation d'aide sociale légale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-742
+allocation logement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1496
+allocation militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1497
+aide sociale facultative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1249
+aide sociale à l'enfance	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-852
+enfant en garde	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-467
+enfant secouru	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-99
+pupille de l'État	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-100
+conseil de famille	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-843
+orphelinat	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1217
+adoption	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1281
+action humanitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-544
+alphabétisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-119
+collecte publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1171
+assurance sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-466
+assurance maternité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1012
+assurance chômage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-779
+assurance maladie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1330
+assurance vieillesse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-192
+assurance décès	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-291
+assurance invalidité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1354
+assurance veuvage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-673
+placement familial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-591
+prestation familiale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-790
+insertion sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-987
+personne handicapée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1495
+enfant handicapé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-82
+invalide du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-719
+adulte handicapé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1301
+invalide de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1104
+emploi	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-696
+formation professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1196
+formateur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-583
+formation qualifiante	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-509
+organisme de formation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-927
+stagiaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1292
+emploi à temps partiel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-85
+chômage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-862
+chômage partiel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-137
+demandeur d'emploi	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1194
+emploi aidé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-144
+travailleur handicapé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1027
+travail protégé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-189
+emploi réservé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1312
+offre d'emploi	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-234
+examen professionnel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-414
+cumul d'emploi	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-520
+insertion professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-848
+travailleur étranger	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-983
+trafic de main d'oeuvre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-593
+licenciement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-611
+licenciement économique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1277
+travailleur frontalier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1419
+travail clandestin	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1344
+carrière professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1146
+retraité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-929
+population active	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-713
+atelier de charité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-783
+condition des personnes et des biens	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-942
+condition sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-103
+noblesse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-446
+esclavage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1394
+prolétariat	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-723
+servage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1181
+tiers état	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-151
+bourgeoisie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-184
+droit de la famille	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-489
+enfant naturel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1284
+émancipation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-207
+régime matrimonial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-934
+succession	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1494
+patrimoine privé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-261
+droit des obligations	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-819
+dette	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1030
+travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-536
+conditions du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-861
+durée du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-4
+repos hebdomadaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-161
+rémunération	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-374
+congés payés	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-405
+travail de nuit	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1140
+horaire de travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-898
+travail des enfants	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1100
+ouvrier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-127
+intéressement des travailleurs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-111
+sécurité du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1264
+machine dangereuse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-176
+maladie professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-500
+médecine du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-841
+accident du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-682
+profession particulière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-480
+employé de maison	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-210
+concierge	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-517
+travailleur à domicile	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-907
+relations du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-847
+conflit du travail	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-886
+délégué du personnel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-650
+comité d'entreprise	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1208
+syndicat professionnel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-258
+entreprise de travail temporaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1233
+restauration collective	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1479
+santé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-344
+thermoclimatisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1268
+hygiène	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-748
+hygiène alimentaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-565
+amiante	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-343
+désinfection	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-956
+profession médicale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-672
+médecin hospitalier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-777
+médecin	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-89
+chirurgien dentiste	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-259
+pharmacien	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-365
+auxiliaire médical	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1032
+sage femme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-806
+établissement de santé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-185
+construction hospitalière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-950
+population hospitalière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-492
+établissement sanitaire privé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1457
+léproserie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1263
+hôpital psychiatrique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1062
+établissement public d'hospitalisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-329
+sanatorium	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-894
+équipement médico chirurgical	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-560
+hôtel-dieu	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1499
+protection maternelle et infantile	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1094
+puéricultrice	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-134
+halte garderie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-180
+crèche	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-190
+assistante maternelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1307
+mortalité infantile	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-541
+interruption volontaire de grossesse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-916
+contraception	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-972
+accouchement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-978
+action sanitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1319
+cancer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-152
+maladie sexuellement transmissible	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-214
+lèpre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-322
+épidémie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-501
+tuberculose	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-700
+maladie mentale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-732
+maladie à déclaration obligatoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-797
+alcoolisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1270
+tabagisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-984
+toxicomanie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1189
+sida	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1308
+soins médicaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1498
+organisation sanitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1423
+transport sanitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-635
+établissement médico social	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-355
+transfusion sanguine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-279
+installation radiologique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-730
+vaccination	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1085
+laboratoire d'analyse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1265
+pharmacie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-337
+officine pharmaceutique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1010
+spécialité pharmaceutique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-625
+substance vénéneuse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1028
+produit cosmétique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-728
+hygiène sociale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1163
+alcoolique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-412

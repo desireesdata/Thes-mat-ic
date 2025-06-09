@@ -1,102 +1,102 @@
-éducation et sciences
-- recherche scientifique
-- recherche appliquée
-- culture expérimentale
-- organisme génétiquement modifié
-- découverte scientifique
-- réunion scientifique
-- société savante
-- sciences humaines
-- recherche fondamentale
-- organisme de recherche
-- chercheur
-- expédition scientifique
-- recherche historique
-- histoire des familles
-- histoire locale
-- sciences auxiliaires de l'histoire
-- sciences de la vie et de la terre
-- sciences physiques
-- discipline scientifique
-- organisation scolaire
-- enseignant
-- éducateur
-- instituteur
-- éducateur sportif
-- maître d'apprentissage
-- professeur
-- conflit scolaire
-- établissement d'enseignement
-- construction scolaire
-- université
-- établissement de formation des maîtres
-- grande école
-- centre de formation
-- lycée
-- école
-- collège
-- école centrale
-- carte scolaire
-- enseignement supérieur
-- trouble universitaire
-- droits de scolarité
-- titre universitaire
-- enseignement élémentaire
-- enseignement public
-- enseignement secondaire
-- examen
-- enseignement privé
-- enseignement préélémentaire
-- orientation scolaire
-- enseignement à distance
-- chef d'établissement scolaire
-- enseignement
-- discipline universitaire
-- enseignement artistique
-- enseignement religieux
-- programme scolaire
-- éducation sexuelle
-- langue étrangère
-- instruction civique
-- enseignement ménager
-- travail manuel
-- enseignement professionnel
-- enseignement agricole
-- enseignement commercial
-- enseignement hospitalier
-- apprentissage
-- enseignement technique
-- pédagogie
-- bibliothèque scolaire
-- matériel pédagogique
-- éducation sportive
-- vie scolaire
-- rythme scolaire
-- congés scolaires
-- oeuvres scolaires
-- transport scolaire
-- bourse d'études
-- restauration scolaire
-- fourniture scolaire
-- résidence universitaire
-- éducation spéciale
-- distribution des prix
-- classe de découverte
-- voyage scolaire
-- échec scolaire
-- médecine scolaire
-- psychopédagogie
-- population scolaire
-- élève
-- étudiant
-- apprenti
-- interne
-- projet éducatif
-- parent d'élève
-- absentéisme scolaire
-- accueil périscolaire
-- service éducatif
-- rentrée scolaire
-- accident scolaire
-- bataillon scolaire
-- internat
+éducation et sciences	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1302
+recherche scientifique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-3
+recherche appliquée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1413
+culture expérimentale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1356
+organisme génétiquement modifié	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1007
+découverte scientifique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-618
+réunion scientifique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-676
+société savante	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1073
+sciences humaines	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1005
+recherche fondamentale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-319
+organisme de recherche	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-981
+chercheur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-448
+expédition scientifique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1470
+recherche historique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1471
+histoire des familles	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1475
+histoire locale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1476
+sciences auxiliaires de l'histoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1477
+sciences de la vie et de la terre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1472
+sciences physiques	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1473
+discipline scientifique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-287
+organisation scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-499
+enseignant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-38
+éducateur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-350
+instituteur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1029
+éducateur sportif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1456
+maître d'apprentissage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-614
+professeur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-300
+conflit scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1106
+établissement d'enseignement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-662
+construction scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-921
+université	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-532
+établissement de formation des maîtres	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-186
+grande école	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-240
+centre de formation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-304
+lycée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-580
+école	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1340
+collège	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-715
+école centrale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1287
+carte scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-198
+enseignement supérieur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-251
+trouble universitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-976
+droits de scolarité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-294
+titre universitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-586
+enseignement élémentaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-379
+enseignement public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-954
+enseignement secondaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1306
+examen	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1077
+enseignement privé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-952
+enseignement préélémentaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-857
+orientation scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1349
+enseignement à distance	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-574
+chef d'établissement scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1468
+enseignement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-881
+discipline universitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-436
+enseignement artistique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1228
+enseignement religieux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-232
+programme scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-940
+éducation sexuelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-208
+langue étrangère	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-433
+instruction civique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-792
+enseignement ménager	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1398
+travail manuel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1260
+enseignement professionnel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1331
+enseignement agricole	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1405
+enseignement commercial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-280
+enseignement hospitalier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-651
+apprentissage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-958
+enseignement technique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1041
+pédagogie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-610
+bibliothèque scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-787
+matériel pédagogique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1203
+éducation sportive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-798
+vie scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1121
+rythme scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1404
+congés scolaires	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-62
+oeuvres scolaires	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1296
+transport scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-245
+bourse d'études	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-256
+restauration scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1199
+fourniture scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-665
+résidence universitaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-865
+éducation spéciale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-677
+distribution des prix	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-141
+classe de découverte	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-145
+voyage scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-222
+échec scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-265
+médecine scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-998
+psychopédagogie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1353
+population scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-559
+élève	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-428
+étudiant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-833
+apprenti	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1377
+interne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1244
+projet éducatif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-474
+parent d'élève	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-498
+absentéisme scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-602
+accueil périscolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-895
+service éducatif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-904
+rentrée scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1282
+accident scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1142
+bataillon scolaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1225
+internat	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1474

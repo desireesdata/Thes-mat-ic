@@ -1,147 +1,147 @@
-équipement
-- immobilier
-- habitat rural
-- vente publique immobilière
-- aide publique au logement
-- accession à la propriété
-- réquisition de logement
-- architecte
-- construction
-- société de construction
-- ouvrier du bâtiment
-- entreprise du bâtiment
-- sondage géologique
-- chantier
-- participation des employeurs
-- surveillance des bâtiments
-- logement
-- expulsion locative
-- loyer immobilier
-- logement individuel
-- logement collectif
-- amélioration de l'habitat
-- habitat insalubre
-- marché immobilier
-- agent immobilier
-- habitat urbain
-- habitat périurbain
-- centre ville
-- syndic de copropriété
-- démolition
-- logement social
-- foyer
-- jardin familial
-- habitation à loyer modéré
-- logement de fonction
-- voie de communication
-- réseau routier
-- chemin rural
-- route nationale
-- voie privée
-- voie communale
-- autoroute
-- route forestière
-- route départementale
-- voie intercommunale
-- réseau ferroviaire
-- voie ferrée privée
-- voie ferrée des quais
-- voie ferrée d'intérêt local
-- voie ferrée d'intérêt national
-- ouvrage d'art
-- voie navigable
-- liaison douce
-- piste cyclable
-- promenade plantée
-- voie piétonne
-- téléphérique
-- urbanisme
-- équipement collectif
-- cimetière
-- espace vert
-- bâtiment polyvalent
-- aire de stationnement
-- champ de foire
-- aire de jeux
-- place publique
-- halle
-- puits
-- lavoir
-- horloge publique
-- fontaine
-- installation sanitaire publique
-- réseau de distribution
-- éclairage public
-- distribution électrique
-- chauffage urbain
-- eau potable
-- canalisation
-- distribution de gaz
-- opération d'urbanisme
-- lotissement
-- restructuration urbaine
-- restauration immobilière
-- urbaniste
-- aménagement foncier
-- réserve foncière
-- association foncière urbaine
-- friche industrielle
-- zone d'aménagement
-- décoration urbaine
-- mobilier urbain
-- étalement urbain
-- reconstruction
-- secteur sauvegardé
-- fleurissement
-- environnement
-- eau
-- aménagement des eaux
-- prise d'eau
-- cours d'eau
-- nappe d'eau
-- eau souterraine
-- chenal
-- traitement des eaux usées
-- eau pluviale
-- littoral
-- plage
-- défense contre la mer
-- traitement des déchets
-- déchet industriel
-- déchet radioactif
-- déchet animal
-- ordures ménagères
-- déchet hospitalier
-- usine d'incinération
-- décharge publique
-- montagne
-- restauration des terrains en montagne
-- pollution
-- pollution visuelle
-- pollution atmosphérique
-- pollution des eaux
-- pollution sonore
-- pollution de la mer
-- pollution du sol
-- météorologie
-- canicule
-- intempéries
-- espace naturel sensible
-- déforestation
-- zone de marais
-- protection de la nature
-- association de défense de l'environnement
-- espèce protégée
-- site
-- faune sauvage
-- parc naturel
-- réserve naturelle
-- flore sauvage
-- biodiversité
-- cartographie
-- bathymétrie
-- travaux d'utilité publique
-- expropriation
-- commissaire enquêteur
-- lutte contre l'érosion
-- mer
+équipement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1262
+immobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-556
+habitat rural	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1
+vente publique immobilière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1438
+aide publique au logement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-41
+accession à la propriété	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-153
+réquisition de logement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-72
+architecte	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-738
+construction	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-396
+société de construction	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-654
+ouvrier du bâtiment	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1346
+entreprise du bâtiment	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-227
+sondage géologique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-292
+chantier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-595
+participation des employeurs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-914
+surveillance des bâtiments	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-441
+logement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-290
+expulsion locative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-302
+loyer immobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1130
+logement individuel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-656
+logement collectif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-772
+amélioration de l'habitat	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1170
+habitat insalubre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-523
+marché immobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-706
+agent immobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-437
+habitat urbain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1133
+habitat périurbain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-774
+centre ville	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1230
+syndic de copropriété	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1045
+démolition	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-671
+logement social	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1001
+foyer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-626
+jardin familial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1409
+habitation à loyer modéré	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1065
+logement de fonction	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1448
+voie de communication	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1334
+réseau routier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1149
+chemin rural	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-908
+route nationale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-5
+voie privée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-76
+voie communale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-395
+autoroute	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-451
+route forestière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-734
+route départementale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1147
+voie intercommunale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1380
+réseau ferroviaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-736
+voie ferrée privée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-30
+voie ferrée des quais	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1206
+voie ferrée d'intérêt local	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-443
+voie ferrée d'intérêt national	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-985
+ouvrage d'art	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-48
+voie navigable	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-326
+liaison douce	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-661
+piste cyclable	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-502
+promenade plantée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-754
+voie piétonne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1120
+téléphérique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1087
+urbanisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-209
+équipement collectif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-508
+cimetière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-773
+espace vert	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-403
+bâtiment polyvalent	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-34
+aire de stationnement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1128
+champ de foire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-465
+aire de jeux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-549
+place publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1216
+halle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-960
+puits	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-884
+lavoir	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1320
+horloge publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-570
+fontaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-835
+installation sanitaire publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1482
+réseau de distribution	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-755
+éclairage public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-63
+distribution électrique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-937
+chauffage urbain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-510
+eau potable	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-537
+canalisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-856
+distribution de gaz	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1295
+opération d'urbanisme	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-83
+lotissement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-475
+restructuration urbaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1097
+restauration immobilière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-124
+urbaniste	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-84
+aménagement foncier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1266
+réserve foncière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1193
+association foncière urbaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-138
+friche industrielle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-469
+zone d'aménagement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-858
+décoration urbaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-168
+mobilier urbain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1131
+étalement urbain	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1246
+reconstruction	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-444
+secteur sauvegardé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1105
+fleurissement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-778
+environnement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1074
+eau	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-695
+aménagement des eaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-988
+prise d'eau	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-944
+cours d'eau	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-607
+nappe d'eau	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1276
+eau souterraine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-149
+chenal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-243
+traitement des eaux usées	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-589
+eau pluviale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1288
+littoral	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-762
+plage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-14
+défense contre la mer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1108
+traitement des déchets	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-362
+déchet industriel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-442
+déchet radioactif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-36
+déchet animal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-378
+ordures ménagères	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1129
+déchet hospitalier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-800
+usine d'incinération	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-722
+décharge publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1159
+montagne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-334
+restauration des terrains en montagne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1004
+pollution	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-286
+pollution visuelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-157
+pollution atmosphérique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-714
+pollution des eaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1420
+pollution sonore	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-375
+pollution de la mer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-327
+pollution du sol	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1501
+météorologie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-663
+canicule	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1480
+intempéries	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1481
+espace naturel sensible	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-739
+déforestation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-91
+zone de marais	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1185
+protection de la nature	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1365
+association de défense de l'environnement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-458
+espèce protégée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-130
+site	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-233
+faune sauvage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1357
+parc naturel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1057
+réserve naturelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-599
+flore sauvage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1211
+biodiversité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1303
+cartographie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1143
+bathymétrie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1205
+travaux d'utilité publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-971
+expropriation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1361
+commissaire enquêteur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-840
+lutte contre l'érosion	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-990
+mer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1318

@@ -1,233 +1,233 @@
-administration
-- finances publiques
-- finances locales
-- finances régionales
-- finances communales
-- finances intercommunales
-- finances départementales
-- propriété publique
-- produit domanial
-- domaine mobilier
-- biens intercommunaux
-- biens nationaux
-- biens communaux
-- bien administré
-- acquisition domaniale
-- biens régionaux
-- concession funéraire
-- biens départementaux
-- domaine immobilier
-- aliénation domaniale
-- concession domaniale
-- domaine public
-- domaine public maritime
-- occupation temporaire du domaine public
-- servitude
-- domaine public fluvial
-- comptabilité publique
-- recette non fiscale
-- fonds européen
-- dépense d'investissement
-- dépense de fonctionnement
-- dette publique
-- recette fiscale
-- monnaie
-- commande publique
-- police
-- maintien de l'ordre
-- police administrative
-- pompes funèbres
-- profession réglementée
-- détention d'armes
-- séjour des étrangers
-- recherche dans l'intérêt des familles
-- transport de corps
-- surveillance du territoire
-- police des frontières
-- circulation des personnes
-- clandestin
-- reconduite à la frontière
-- police des transports
-- police des moeurs
-- pornographie
-- prostitution
-- établissement interdit aux mineurs
-- police des jeux
-- police judiciaire
-- garde à vue
-- interdit de séjour
-- individu recherché
-- arrestation
-- police de la chasse
-- lieutenant de louveterie
-- police de la pêche
-- police des cultes
-- agent de la force publique
-- gendarmerie
-- garde particulier
-- garde forestier
-- police municipale
-- police urbaine
-- maréchaussée
-- police des eaux
-- régime seigneurial
-- privilèges des communautés
-- coutumes
-- droits d'usage
-- droits seigneuriaux
-- féodalité
-- hommage
-- serment de fidélité
-- dénombrement seigneurial
-- droits honorifiques
-- administration seigneuriale
-- reconnaissances
-- agent seigneurial
-- réformation
-- alleu
-- fiscalité
-- fiscalité directe d'Ancien Régime
-- fiscalité professionnelle
-- taxe professionnelle
-- impôt sur les bénéfices
-- taxe sur le chiffre d'affaires
-- impôt sur les sociétés
-- taxe d'apprentissage
-- contributions indirectes
-- fiscalité pétrolière
-- monopoles fiscaux
-- droits de circulation
-- fiscalité immobilière
-- publicité foncière
-- évaluation foncière
-- cadastre
-- taxe foncière
-- fiscalité des personnes
-- impôt sur la fortune
-- impôt social
-- impôt sur le revenu
-- redevance parafiscale
-- impôts locaux
-- octroi
-- impôts provinciaux d'Ancien Régime
-- droit de place
-- droit des pauvres
-- taxe de séjour
-- taxe d'habitation
-- corvée royale
-- fraude fiscale
-- contrebande
-- enregistrement
-- droits de succession
-- droits de douane
-- exonération fiscale
-- taxe extraordinaire d'Ancien Régime
-- office d'Ancien Régime
-- droits réservés
-- droits domaniaux d'Ancien Régime
-- recouvrement fiscal
-- timbre fiscal
-- fiscalité directe révolutionnaire
-- contribuable
-- protection civile
-- sécurité routière
-- établissement recevant du public
-- installation classée
-- accident des transports
-- appareil à pression de vapeur
-- sinistre
-- incendie
-- inondation
-- catastrophe industrielle
-- catastrophe naturelle
-- transport de matières dangereuses
-- immeuble de grande hauteur
-- secours
-- police secours
-- aide médicale urgente
-- sauvetage en mer
-- sapeur pompier
-- équipement de secours
-- administration générale
-- collectivité locale
-- région
-- regroupement de communes
-- département
-- coopération interrégionale
-- établissement public de coopération intercommunale
-- commune
-- personnel
-- fonctionnaire de l'État
-- fonctionnaire hospitalier
-- fonctionnaire de l'Union européenne
-- agent de droit privé
-- fonctionnaire territorial
-- agent de l'administration royale
-- conseil de discipline
-- agent non titulaire
-- concours administratif
-- organe délibérant
-- conseil régional
-- assemblée européenne
-- assemblée nationale
-- conseil général
-- conseil d'arrondissement
-- conseil municipal
-- états généraux
-- assemblée générale
-- conseil d'administration
-- conseil communautaire
-- états provinciaux
-- transfert de compétences
-- décentralisation
-- régionalisation
-- délocalisation
-- déconcentration
-- structure administrative
-- organisme consultatif
-- administration départementale
-- administration cantonale d'époque révolutionnaire
-- organisme parapublic
-- administration régionale
-- établissement public national
-- organisme administratif européen
-- administration centrale
-- service extérieur
-- établissement public local
-- administration communale
-- administration locale d'Ancien Régime
-- service déconcentré
-- administration préfectorale
-- bâtiment administratif
-- hôtel du département
-- cité administrative
-- palais de justice
-- hôtel de ville
-- hôtel de la sous-préfecture
-- hôtel de région
-- hôtel communautaire
-- hôtel de la préfecture
-- circonscription territoriale
-- canton
-- ressort judiciaire
-- limite territoriale
-- seigneurie
-- arrondissement
-- district révolutionnaire
-- domaine royal
-- agglomération urbaine
-- sénéchaussée
-- pays
-- généralité
-- circonscription fiscale
-- province
-- droit public
-- constitution
-- État
-- monarchie
-- république
-- chef d'État
-- institutions
-- législation
-- droit communautaire
-- démocratie
+administration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1317
+finances publiques	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1222
+finances locales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-376
+finances régionales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-6
+finances communales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-888
+finances intercommunales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-354
+finances départementales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1138
+propriété publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-11
+produit domanial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1070
+domaine mobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-763
+biens intercommunaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1433
+biens nationaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1051
+biens communaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-690
+bien administré	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-766
+acquisition domaniale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-333
+biens régionaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-616
+concession funéraire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-93
+biens départementaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-495
+domaine immobilier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-383
+aliénation domaniale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-377
+concession domaniale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1113
+domaine public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1127
+domaine public maritime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-35
+occupation temporaire du domaine public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-423
+servitude	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-802
+domaine public fluvial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1258
+comptabilité publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-747
+recette non fiscale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-112
+fonds européen	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-117
+dépense d'investissement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-206
+dépense de fonctionnement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-464
+dette publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-993
+recette fiscale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1245
+monnaie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-726
+commande publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1161
+police	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-471
+maintien de l'ordre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-17
+police administrative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-28
+pompes funèbres	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1461
+profession réglementée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-962
+détention d'armes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-418
+séjour des étrangers	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-204
+recherche dans l'intérêt des familles	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1300
+transport de corps	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-545
+surveillance du territoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1269
+police des frontières	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-630
+circulation des personnes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-32
+clandestin	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-417
+reconduite à la frontière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-867
+police des transports	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-102
+police des moeurs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1396
+pornographie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-201
+prostitution	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-598
+établissement interdit aux mineurs	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1347
+police des jeux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-253
+police judiciaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-468
+garde à vue	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-271
+interdit de séjour	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1054
+individu recherché	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-652
+arrestation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1411
+police de la chasse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1114
+lieutenant de louveterie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1338
+police de la pêche	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-735
+police des cultes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-863
+agent de la force publique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1172
+gendarmerie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1135
+garde particulier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-749
+garde forestier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-694
+police municipale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-668
+police urbaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1093
+maréchaussée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1425
+police des eaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-522
+régime seigneurial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-842
+privilèges des communautés	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-29
+coutumes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-155
+droits d'usage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1333
+droits seigneuriaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1115
+féodalité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-718
+hommage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-239
+serment de fidélité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-553
+dénombrement seigneurial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1313
+droits honorifiques	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-282
+administration seigneuriale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-943
+reconnaissances	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-285
+agent seigneurial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-561
+réformation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1429
+alleu	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-688
+fiscalité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-829
+fiscalité directe d'Ancien Régime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-47
+fiscalité professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-669
+taxe professionnelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-640
+impôt sur les bénéfices	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-71
+taxe sur le chiffre d'affaires	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-205
+impôt sur les sociétés	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1136
+taxe d'apprentissage	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1031
+contributions indirectes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-398
+fiscalité pétrolière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-90
+monopoles fiscaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-975
+droits de circulation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1086
+fiscalité immobilière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1058
+publicité foncière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1215
+évaluation foncière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-132
+cadastre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-463
+taxe foncière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-807
+fiscalité des personnes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1376
+impôt sur la fortune	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-188
+impôt social	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-930
+impôt sur le revenu	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1375
+redevance parafiscale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1350
+impôts locaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-241
+octroi	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1316
+impôts provinciaux d'Ancien Régime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1016
+droit de place	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-641
+droit des pauvres	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-298
+taxe de séjour	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1002
+taxe d'habitation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1298
+corvée royale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-262
+fraude fiscale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-295
+contrebande	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1370
+enregistrement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-306
+droits de succession	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-542
+droits de douane	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-410
+exonération fiscale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-434
+taxe extraordinaire d'Ancien Régime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-462
+office d'Ancien Régime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-780
+droits réservés	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-853
+droits domaniaux d'Ancien Régime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-623
+recouvrement fiscal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-791
+timbre fiscal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1387
+fiscalité directe révolutionnaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1165
+contribuable	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1123
+protection civile	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-147
+sécurité routière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-628
+établissement recevant du public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-478
+installation classée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-887
+accident des transports	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1221
+appareil à pression de vapeur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-126
+sinistre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-67
+incendie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-284
+inondation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1393
+catastrophe industrielle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1055
+catastrophe naturelle	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-698
+transport de matières dangereuses	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1151
+immeuble de grande hauteur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1219
+secours	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1000
+police secours	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-278
+aide médicale urgente	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-646
+sauvetage en mer	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1033
+sapeur pompier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1430
+équipement de secours	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1462
+administration générale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1345
+collectivité locale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-73
+région	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1079
+regroupement de communes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-594
+département	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1449
+coopération interrégionale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-199
+établissement public de coopération intercommunale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1238
+commune	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-317
+personnel	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-805
+fonctionnaire de l'État	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1056
+fonctionnaire hospitalier	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1414
+fonctionnaire de l'Union européenne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-195
+agent de droit privé	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-218
+fonctionnaire territorial	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-353
+agent de l'administration royale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1417
+conseil de discipline	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-507
+agent non titulaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-657
+concours administratif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1071
+organe délibérant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1157
+conseil régional	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1237
+assemblée européenne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-922
+assemblée nationale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-175
+conseil général	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-367
+conseil d'arrondissement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-874
+conseil municipal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-159
+états généraux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-275
+assemblée générale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-555
+conseil d'administration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-769
+conseil communautaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1122
+états provinciaux	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1451
+transfert de compétences	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-347
+décentralisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1083
+régionalisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-55
+délocalisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-276
+déconcentration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1452
+structure administrative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-435
+organisme consultatif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-131
+administration départementale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-260
+administration cantonale d'époque révolutionnaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-368
+organisme parapublic	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-387
+administration régionale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-422
+établissement public national	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1109
+organisme administratif européen	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-771
+administration centrale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1044
+service extérieur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-575
+établissement public local	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1422
+administration communale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1435
+administration locale d'Ancien Régime	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1040
+service déconcentré	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1088
+administration préfectorale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-621
+bâtiment administratif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1227
+hôtel du département	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-273
+cité administrative	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-351
+palais de justice	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-356
+hôtel de ville	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-712
+hôtel de la sous-préfecture	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-794
+hôtel de région	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1059
+hôtel communautaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1160
+hôtel de la préfecture	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1289
+circonscription territoriale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-601
+canton	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-645
+ressort judiciaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-299
+limite territoriale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-349
+seigneurie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-454
+arrondissement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1064
+district révolutionnaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1328
+domaine royal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1043
+agglomération urbaine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1035
+sénéchaussée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-812
+pays	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1372
+généralité	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-638
+circonscription fiscale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-708
+province	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-999
+droit public	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1259
+constitution	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-113
+État	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-476
+monarchie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-346
+république	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-710
+chef d'État	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1460
+institutions	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-385
+législation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-765
+droit communautaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-965
+démocratie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1229

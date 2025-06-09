@@ -1,81 +1,81 @@
-extérieur
-- défense du territoire
-- infrastructure militaire
-- génie militaire
-- terrain militaire
-- fortification
-- cimetière militaire
-- caserne
-- arsenal
-- base aérienne
-- recrutement militaire
-- conscription
-- enrôlement
-- service civique
-- organisation de l'armée
-- ravitaillement militaire
-- équipement militaire
-- réquisitions militaires
-- état-major
-- service sanitaire militaire
-- remonte militaire
-- armée
-- marine
-- légion étrangère
-- armée de terre
-- armée de l'air
-- militaire
-- officier militaire
-- demi-solde
-- école militaire
-- gens de guerre
-- milices
-- garde nationale
-- milices bourgeoises
-- milices provinciales
-- mobilisation
-- police militaire
-- manoeuvre militaire
-- relations internationales
-- francophonie
-- frontière
-- blocus
-- annexion de territoire
-- colonie
-- colonisation
-- indépendance
-- organisation internationale
-- représentation diplomatique
-- diplomate
-- relations européennes
-- aide au développement
-- guerre
-- opération militaire
-- réfugié de guerre
-- bombardement
-- ravitaillement
-- rationnement
-- marché noir
-- camp d'internement
-- internement administratif
-- ancien combattant
-- victime de guerre
-- pupille de la nation
-- déporté
-- veuve de guerre
-- mort pour la France
-- forces alliées
-- dommages de guerre
-- bien spolié
-- bien sinistré
-- occupation étrangère
-- épuration
-- résistance
-- collaboration
-- autorité d'occupation
-- chantier de la jeunesse
-- prisonnier de guerre
-- travail contraint
-- défense passive
-- abri
-- oeuvre de guerre
+extérieur	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-150
+défense du territoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-250
+infrastructure militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-912
+génie militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-12
+terrain militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-358
+fortification	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-427
+cimetière militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-799
+caserne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-823
+arsenal	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1119
+base aérienne	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1397
+recrutement militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-872
+conscription	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1408
+enrôlement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1039
+service civique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-359
+organisation de l'armée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-167
+ravitaillement militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-121
+équipement militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-744
+réquisitions militaires	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1321
+état-major	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-506
+service sanitaire militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-905
+remonte militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1465
+armée	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-551
+marine	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-122
+légion étrangère	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-455
+armée de terre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-977
+armée de l'air	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1352
+militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1103
+officier militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-247
+demi-solde	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-579
+école militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1006
+gens de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1286
+milices	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-770
+garde nationale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-519
+milices bourgeoises	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-571
+milices provinciales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1280
+mobilisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1293
+police militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-966
+manoeuvre militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1483
+relations internationales	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-974
+francophonie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-15
+frontière	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-341
+blocus	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-959
+annexion de territoire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-577
+colonie	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1069
+colonisation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-384
+indépendance	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-808
+organisation internationale	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-612
+représentation diplomatique	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-831
+diplomate	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1442
+relations européennes	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-957
+aide au développement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1485
+guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1341
+opération militaire	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-8
+réfugié de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1243
+bombardement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-120
+ravitaillement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-146
+rationnement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1150
+marché noir	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-756
+camp d'internement	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-324
+internement administratif	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1279
+ancien combattant	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-352
+victime de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-879
+pupille de la nation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1399
+déporté	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-680
+veuve de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-969
+mort pour la France	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1484
+forces alliées	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-402
+dommages de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1453
+bien spolié	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-725
+bien sinistré	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1255
+occupation étrangère	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-788
+épuration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-494
+résistance	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1231
+collaboration	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-830
+autorité d'occupation	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1202
+chantier de la jeunesse	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-699
+prisonnier de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-563
+travail contraint	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-979
+défense passive	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-989
+abri	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1195
+oeuvre de guerre	http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1020
